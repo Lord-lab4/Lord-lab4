@@ -599,6 +599,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-02-13 12:28:10 +0000",
+      "cooked_beef": "2025-02-14 12:27:42 +0000",
       "apple": "2025-02-07 11:53:22 +0000",
       "rotten_flesh": "2025-02-07 11:53:26 +0000",
       "cooked_chicken": "2025-02-07 11:36:49 +0000"
@@ -1359,6 +1360,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-02-14 12:16:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-02-14 12:27:03 +0000"
     },
     "done": true
   },

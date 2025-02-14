@@ -314,3 +314,10 @@
 [12:22:06] [Server thread/INFO]: Incorrect argument for command
 [12:22:06] [Server thread/INFO]: tp Lucky ~ ~+5 ~<--[HERE]
 [12:22:22] [Server thread/INFO]: Teleported Lucky to 0.000000, 118.000000, 0.000000
+[12:25:25] [Server thread/INFO]: Teleported Lucky to -40.500000, 63.000000, 504.500000
+[12:27:03] [Server thread/INFO]: Lucky has made the advancement [A Seedy Place]
+[12:30:32] [Server thread/INFO]: There are 2 of a max of 20 players online: Lucky, ArganisEHS
+[12:32:04] [Server thread/INFO]: Incorrect argument for command
+[12:32:04] [Server thread/INFO]: ...tle Lucky Hola<--[HERE]
+[12:33:22] [Server thread/INFO]: Invalid chat component: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path $
+[12:33:22] [Server thread/INFO]: ...cky title hola<--[HERE]
