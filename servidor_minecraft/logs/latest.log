@@ -285,3 +285,17 @@
 [08:21:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
 [08:21:23] [Server thread/INFO]: [Server] hello
 [08:23:35] [Server thread/INFO]: ArganisEHS was blown up by Creeper
+[08:32:00] [Server thread/INFO]: LordSasha96[/127.172.181.126:48405] logged in with entity id 2818 at (-32.714326320267105, 64.0, 508.3790999190007)
+[08:32:00] [Server thread/INFO]: LordSasha96 joined the game
+[08:32:00] [Server thread/INFO]: Async chunk loading for player LordSasha96 completed
+[08:32:45] [Server thread/INFO]: Lucky[/127.172.181.126:56865] logged in with entity id 2962 at (32.9348960810815, 64.0, 529.1053607441862)
+[08:32:45] [Server thread/INFO]: Lucky joined the game
+[08:32:45] [Server thread/INFO]: Async chunk loading for player Lucky completed
+[08:33:46] [Server thread/INFO]: <LordSasha96> zzzzzz
+[08:33:50] [Server thread/INFO]: <LordSasha96> zzzzz!
+[08:33:57] [Server thread/INFO]: <LordSasha96> duerman :(
+[08:34:11] [Server thread/INFO]: <LordSasha96> zzz
+[08:37:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-159, y=82, z=431} class_2338{x=-158, y=81, z=432}
+[08:39:30] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-168, y=81, z=411} class_2338{x=-169, y=79, z=409}
+[08:39:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-166, y=81, z=413} class_2338{x=-165, y=79, z=414}
+[08:39:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-166, y=81, z=413} class_2338{x=-165, y=79, z=414}
