@@ -314,3 +314,23 @@
 [08:44:30] [Server thread/INFO]: [Server] ¿Nadie más se va a conectar?
 [08:44:37] [Server thread/INFO]: <Lucky> nose
 [08:44:53] [Server thread/INFO]: [Server] ._.
+[08:50:46] [Server thread/INFO]: Lucky has made the advancement [Isn't It Iron Pick]
+[08:51:05] [Server thread/INFO]: ArganisEHS has made the advancement [Suit Up]
+[08:51:20] [Server thread/INFO]: ArganisEHS has made the advancement [Isn't It Iron Pick]
+[08:52:34] [Server thread/INFO]: Grajo[/127.172.181.126:39945] logged in with entity id 3777 at (5.5, 107.0, 7.5)
+[08:52:34] [Server thread/INFO]: Grajo joined the game
+[08:52:34] [Server thread/INFO]: Async chunk loading for player Grajo completed
+[08:54:03] [Server thread/INFO]: Grajo lost connection: Disconnected
+[08:54:03] [Server thread/INFO]: Grajo left the game
+[08:54:45] [Server thread/INFO]: [Server] hello
+[08:54:49] [Server thread/INFO]: There are 2 of a max of 20 players online: Lucky, ArganisEHS
+[08:54:52] [Server thread/INFO]: Grajo[/127.172.181.126:42819] logged in with entity id 4398 at (6.763782859689791, 107.0, 5.968975348253031)
+[08:54:52] [Server thread/INFO]: Grajo joined the game
+[08:54:52] [Server thread/INFO]: Async chunk loading for player Grajo completed
+[08:54:56] [Server thread/INFO]: There are 3 of a max of 20 players online: Lucky, ArganisEHS, Grajo
+[08:56:16] [Server thread/INFO]: ArganisEHS lost connection: Disconnected
+[08:56:16] [Server thread/INFO]: ArganisEHS left the game
+[08:56:18] [Server thread/INFO]: Lucky lost connection: Disconnected
+[08:56:18] [Server thread/INFO]: Lucky left the game
+[08:56:24] [Server thread/INFO]: There are 1 of a max of 20 players online: Grajo
+[08:56:54] [Server thread/INFO]: There are 1 of a max of 20 players online: Grajo
