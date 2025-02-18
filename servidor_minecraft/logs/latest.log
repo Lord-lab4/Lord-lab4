@@ -387,3 +387,26 @@
 [12:19:48] [pool-11-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos class_2338{x=37, y=78, z=-565}
 [12:19:56] [Server thread/INFO]: Grajo lost connection: Disconnected
 [12:19:56] [Server thread/INFO]: Grajo left the game
+[12:20:02] [Server thread/INFO]: Grajo[/127.172.181.126:44971] logged in with entity id 7597 at (73.7814885197615, 72.0, -401.0551810283942)
+[12:20:02] [Server thread/INFO]: Grajo joined the game
+[12:20:03] [Server thread/INFO]: Async chunk loading for player Grajo completed
+[12:20:03] [Server thread/INFO]: ArganisEHS[/127.172.181.126:53549] logged in with entity id 7680 at (-31.228612088031575, 24.0, 398.71144220308474)
+[12:20:03] [Server thread/INFO]: ArganisEHS joined the game
+[12:20:03] [Server thread/INFO]: Async chunk loading for player ArganisEHS completed
+[12:20:28] [Server thread/INFO]: Grajo has made the advancement [Monster Hunter]
+[12:21:07] [Server thread/INFO]: Grajo has made the advancement [This Must be a Sign!]
+[12:23:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-308, y=66, z=-847} class_2338{x=-307, y=64, z=-846}
+[12:24:00] [Server thread/INFO]: <LordSasha96> msg Lucky Ahi te dejo hierro como ofrenda de paz
+[12:25:43] [Server thread/INFO]: ArganisEHS has made the advancement [Diamonds!]
+[12:27:00] [Server thread/INFO]: <LordSasha96> es de dia
+[12:28:22] [pool-11-thread-2/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos class_2338{x=-549, y=71, z=-603}
+[12:28:22] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-548, y=68, z=-603} but found not block entity block Block{minecraft:stone_stairs}[facing=south,half=bottom,shape=straight,waterlogged=false] at location
+[12:28:22] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:stone_stairs}[facing=south,half=bottom,shape=straight,waterlogged=false] but failed at location class_2338{x=-548, y=68, z=-603}
+[12:28:22] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-549, y=71, z=-603} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=true] at location
+[12:28:22] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=true] but failed at location class_2338{x=-549, y=71, z=-603}
+[12:28:22] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-550, y=71, z=-603} but found not block entity block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] at location
+[12:28:22] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] but failed at location class_2338{x=-550, y=71, z=-603}
+[12:28:22] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-548, y=68, z=-602} but found not block entity block Block{minecraft:stone} at location
+[12:28:22] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:stone} but failed at location class_2338{x=-548, y=68, z=-602}
+[12:28:22] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-550, y=70, z=-603} but found not block entity block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] at location
+[12:28:22] [Server thread/WARN]: Tried to load a block entity for block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] but failed at location class_2338{x=-550, y=70, z=-603}
