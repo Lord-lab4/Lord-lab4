@@ -1760,5 +1760,11 @@
     },
     "done": true
   },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "has_water_bucket": "2025-02-18 12:13:27 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

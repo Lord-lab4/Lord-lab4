@@ -347,3 +347,43 @@
 [12:09:40] [Server thread/INFO]: Grajo[/127.172.181.126:48309] logged in with entity id 2632 at (-85.54873173929279, 107.0, 119.61641239901704)
 [12:09:40] [Server thread/INFO]: Grajo joined the game
 [12:09:40] [Server thread/INFO]: Async chunk loading for player Grajo completed
+[12:10:02] [Server thread/INFO]: LordSasha96[/127.172.181.126:51179] logged in with entity id 2855 at (-119.10711218173702, 10.0, 442.2567125563717)
+[12:10:02] [Server thread/INFO]: LordSasha96 joined the game
+[12:10:02] [Server thread/INFO]: Async chunk loading for player LordSasha96 completed
+[12:11:51] [Server thread/INFO]: Kirin1243[/127.172.181.126:36721] logged in with entity id 3508 at (-0.5, 115.0, 3.5)
+[12:11:51] [Server thread/INFO]: Kirin1243 joined the game
+[12:11:51] [Server thread/INFO]: Async chunk loading for player Kirin1243 completed
+[12:11:51] [Server thread/INFO]: Kirin1243 lost connection: Disconnected
+[12:11:51] [Server thread/INFO]: Kirin1243 left the game
+[12:13:28] [Server thread/INFO]: Grajo has made the advancement [Suit Up]
+[12:14:33] [Server thread/INFO]: LordSasha96 lost connection: Disconnected
+[12:14:33] [Server thread/INFO]: LordSasha96 left the game
+[12:15:01] [Server thread/INFO]: LordSasha96[/127.172.181.126:48743] logged in with entity id 4625 at (-29.90575956067741, 60.0, 498.0758089120737)
+[12:15:01] [Server thread/INFO]: LordSasha96 joined the game
+[12:15:01] [Server thread/INFO]: Async chunk loading for player LordSasha96 completed
+[12:15:35] [Server thread/INFO]: Lucky was slain by LordSasha96
+[12:16:02] [Server thread/INFO]: Lucky was slain by LordSasha96
+[12:19:12] [Server thread/INFO]: <LordSasha96> zzzzzzzzzzzzzzzzzzzzzz
+[12:19:14] [Server thread/INFO]: <LordSasha96> zzzzzzzzzzzzzzzzzzzzzzzzz
+[12:19:15] [pool-11-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert]] from pos class_2338{x=37, y=78, z=-565}
+[12:19:16] [Server thread/INFO]: <LordSasha96> zzzzzzzzzzzzzzzzzzzzzzzz
+[12:19:18] [Server thread/INFO]: Grajo lost connection: Disconnected
+[12:19:18] [Server thread/INFO]: Grajo left the game
+[12:19:19] [Server thread/INFO]: <LordSasha96> duerman
+[12:19:25] [Server thread/INFO]: <LordSasha96> zzzzzzzz
+[12:19:26] [Server thread/INFO]: <LordSasha96> z
+[12:19:26] [Server thread/INFO]: ArganisEHS lost connection: Disconnected
+[12:19:26] [Server thread/INFO]: ArganisEHS left the game
+[12:19:26] [Server thread/INFO]: <LordSasha96> z
+[12:19:26] [Server thread/INFO]: <LordSasha96> z
+[12:19:26] [Server thread/INFO]: <LordSasha96> z
+[12:19:27] [Server thread/INFO]: <LordSasha96> z
+[12:19:27] [Server thread/INFO]: <LordSasha96> z
+[12:19:27] [Server thread/INFO]: <LordSasha96> z
+[12:19:28] [Server thread/INFO]: <LordSasha96> z
+[12:19:47] [Server thread/INFO]: Grajo[/127.172.181.126:47187] logged in with entity id 7269 at (77.28706528569418, 78.0, -396.06817619235073)
+[12:19:47] [Server thread/INFO]: Grajo joined the game
+[12:19:47] [Server thread/INFO]: Async chunk loading for player Grajo completed
+[12:19:48] [pool-11-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos class_2338{x=37, y=78, z=-565}
+[12:19:56] [Server thread/INFO]: Grajo lost connection: Disconnected
+[12:19:56] [Server thread/INFO]: Grajo left the game
