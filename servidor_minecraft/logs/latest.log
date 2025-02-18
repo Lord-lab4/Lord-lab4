@@ -309,3 +309,9 @@
 [07:58:23] [Server thread/INFO]: Async chunk loading for player Grajo completed
 [07:58:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
 [08:00:09] [Server thread/INFO]: Grajo has made the advancement [Getting an Upgrade]
+[08:16:13] [Server thread/INFO]: Lucky[/127.172.181.126:32897] logged in with entity id 2371 at (-29.345614595921795, 64.0, 515.0503171565217)
+[08:16:13] [Server thread/INFO]: Lucky joined the game
+[08:16:13] [Server thread/INFO]: Lucky lost connection: Disconnected
+[08:16:13] [Server thread/INFO]: Lucky left the game
+[08:17:24] [Server thread/INFO]: Grajo lost connection: Timed out
+[08:17:24] [Server thread/INFO]: Grajo left the game
