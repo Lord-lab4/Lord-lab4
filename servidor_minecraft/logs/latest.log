@@ -315,3 +315,13 @@
 [08:16:13] [Server thread/INFO]: Lucky left the game
 [08:17:24] [Server thread/INFO]: Grajo lost connection: Timed out
 [08:17:24] [Server thread/INFO]: Grajo left the game
+[08:32:35] [Server thread/INFO]: Grajo[/127.172.181.126:56099] logged in with entity id 2481 at (-34.85206962751348, 74.0, 48.984957278190265)
+[08:32:35] [Server thread/INFO]: Grajo joined the game
+[08:32:35] [Server thread/INFO]: Async chunk loading for player Grajo completed
+[08:32:46] [Server thread/INFO]: There are 1 of a max of 20 players online: Grajo
+[08:33:00] [Server thread/INFO]: [Server] has descargado los mods?
+[08:33:17] [Server thread/INFO]: Lucky[/127.172.181.126:48543] logged in with entity id 2586 at (-29.345614595921795, 64.0, 515.0503171565217)
+[08:33:17] [Server thread/INFO]: Lucky joined the game
+[08:33:17] [Server thread/INFO]: Async chunk loading for player Lucky completed
+[08:35:14] [Server thread/INFO]: Incorrect argument for command
+[08:35:14] [Server thread/INFO]: effect Lucky poison 5<--[HERE]
