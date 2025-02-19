@@ -359,3 +359,25 @@
 [11:48:39] [Server thread/INFO]: Async chunk loading for player Annihilation___ completed
 [11:48:39] [Server thread/INFO]: Annihilation___ lost connection: Disconnected
 [11:48:39] [Server thread/INFO]: Annihilation___ left the game
+[11:53:59] [Server thread/INFO]: com.mojang.authlib.GameProfile@1074621c[id=<null>,name=Kirin1243,properties={},legacy=false] (/127.172.181.126:35953) lost connection: Disconnected
+[11:55:12] [Server thread/INFO]: LordSasha96[/127.172.181.126:53223] logged in with entity id 3249 at (-118.49128288180471, 7.0, 396.69999998807907)
+[11:55:12] [Server thread/INFO]: LordSasha96 joined the game
+[11:55:12] [Server thread/INFO]: Async chunk loading for player LordSasha96 completed
+[11:55:34] [Server thread/INFO]: ArganisEHS has made the advancement [Not Today, Thank You]
+[11:55:42] [Server thread/INFO]: LordSasha96 lost connection: Timed out
+[11:55:42] [Server thread/INFO]: LordSasha96 left the game
+[11:55:42] [Server thread/WARN]: handleDisconnection() called twice
+[11:57:30] [Server thread/INFO]: LordSasha96[/127.172.181.126:36397] logged in with entity id 3937 at (-118.49128288180471, 7.0, 396.69999998807907)
+[11:57:30] [Server thread/INFO]: LordSasha96 joined the game
+[11:57:30] [Server thread/INFO]: Async chunk loading for player LordSasha96 completed
+[11:57:44] [Server thread/INFO]: LordSasha96 fell from a high place
+[11:58:13] [Server thread/INFO]: <LordSasha96> van a dormir?
+[11:58:16] [Server thread/INFO]: <LordSasha96> zzzzzzzzzzzzz
+[11:58:21] [Server thread/INFO]: <LordSasha96> VICIOOOOO
+[12:01:02] [Server thread/INFO]: Kirin1243[/127.172.181.126:50687] logged in with entity id 5305 at (-0.5, 115.0, 3.5)
+[12:01:02] [Server thread/INFO]: Kirin1243 joined the game
+[12:01:02] [Server thread/INFO]: Async chunk loading for player Kirin1243 completed
+[12:01:03] [Server thread/INFO]: Kirin1243 lost connection: Disconnected
+[12:01:03] [Server thread/INFO]: Kirin1243 left the game
+[12:01:09] [Server thread/INFO]: <LordSasha96> que?
+[12:01:15] [Server thread/INFO]: <Lucky> quiero arañas

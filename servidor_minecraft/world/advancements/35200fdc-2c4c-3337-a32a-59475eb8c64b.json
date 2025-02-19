@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-02-19 11:54:55 +0000",
       "minecraft:beach": "2025-02-11 12:24:04 +0000",
       "minecraft:forest": "2025-02-07 10:05:55 +0000",
       "minecraft:ocean": "2025-02-14 09:06:28 +0000",
@@ -2108,12 +2109,6 @@
     },
     "done": true
   },
-  "supplementaries:recipes/soap": {
-    "criteria": {
-      "has_porkchop": "2025-02-18 12:38:10 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/cog_block": {
     "criteria": {
       "has_copper_ingot": "2025-02-18 12:32:24 +0000"
@@ -2123,6 +2118,30 @@
   "supplementaries:recipes/wrench": {
     "criteria": {
       "has_copper_ingot": "2025-02-18 12:32:24 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "has_porkchop": "2025-02-18 12:38:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-02-19 11:53:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-02-19 11:53:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-02-19 11:53:55 +0000"
     },
     "done": true
   },
