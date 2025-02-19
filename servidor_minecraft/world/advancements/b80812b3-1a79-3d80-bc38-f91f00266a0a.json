@@ -1185,6 +1185,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-02-19 12:32:44 +0000",
+      "minecraft:skeleton": "2025-02-19 13:08:23 +0000",
+      "minecraft:spider": "2025-02-19 13:07:55 +0000",
       "minecraft:creeper": "2025-02-19 12:55:55 +0000",
       "minecraft:zombie": "2025-02-19 12:50:55 +0000"
     },
@@ -1364,6 +1366,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-02-19 13:02:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-19 12:43:19 +0000"
@@ -1373,6 +1381,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-02-19 12:43:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-02-19 13:06:48 +0000"
     },
     "done": true
   },
