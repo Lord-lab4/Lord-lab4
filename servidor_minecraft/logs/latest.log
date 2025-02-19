@@ -416,3 +416,44 @@
 [12:15:52] [Server thread/INFO]: <LordSasha96> ademas habría que reiniciar
 [12:16:12] [Server thread/INFO]: <Kirin1243> pues a encerrame como un topo xd
 [12:19:40] [Server thread/INFO]: <Kirin1243> -281 44 49 coordenadas de mina por si os interesa alguno
+[12:22:18] [Server thread/INFO]: Grajo[/127.172.181.126:50623] logged in with entity id 14195 at (-921.9742850191617, 86.0, -906.7203668555142)
+[12:22:18] [Server thread/INFO]: Grajo joined the game
+[12:22:18] [Server thread/INFO]: [Server] VISIOSAY SDSAY say hola
+[12:22:18] [Server thread/INFO]: Async chunk loading for player Grajo completed
+[12:22:28] [Server thread/INFO]: There are 5 of a max of 20 players online: LordSasha96, Lucky, ArganisEHS, Kirin1243, Grajo
+[12:22:58] [Server thread/INFO]: Kirin1243 has made the advancement [Acquire Hardware]
+[12:23:38] [Server thread/INFO]: <Grajo> zzz?
+[12:23:51] [Server thread/INFO]: <ArganisEHS> ya duermo
+[12:24:08] [Server thread/INFO]: LordSasha96 lost connection: Disconnected
+[12:24:08] [Server thread/INFO]: LordSasha96 left the game
+[12:24:11] [Server thread/INFO]: Kirin1243 lost connection: Disconnected
+[12:24:11] [Server thread/INFO]: Kirin1243 left the game
+[12:24:15] [Server thread/INFO]: LordSasha96[/127.172.181.126:42507] logged in with entity id 15415 at (-152.3764577486647, 5.0, 297.9255778897778)
+[12:24:15] [Server thread/INFO]: LordSasha96 joined the game
+[12:24:15] [Server thread/INFO]: Async chunk loading for player LordSasha96 completed
+[12:24:22] [Server thread/INFO]: Kirin1243[/127.172.181.126:44583] logged in with entity id 15603 at (-280.9583474679031, 39.0, 53.29660547558663)
+[12:24:22] [Server thread/INFO]: Kirin1243 joined the game
+[12:24:22] [Server thread/INFO]: Async chunk loading for player Kirin1243 completed
+[12:25:04] [Server thread/INFO]: Grajo has made the advancement [Not Today, Thank You]
+[12:27:16] [Server thread/INFO]: [Server] not today
+[12:28:13] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[12:28:13] [Server thread/INFO]: SAY visiosos<--[HERE]
+[12:28:17] [Server thread/INFO]: [Server] visiosos
+[12:29:09] [Server thread/INFO]: You whisper to Lucky: es que la madera se quema, como esrá cerca a la lava
+[12:29:42] [Server thread/INFO]: com.mojang.authlib.GameProfile@30238b58[id=<null>,name=Garridolm,properties={},legacy=false] (/127.172.181.126:34283) lost connection: Disconnected
+[12:29:44] [Server thread/INFO]: Garridolm[/127.172.181.126:46431] logged in with entity id 18869 at (6.5, 105.0, -9.5)
+[12:29:44] [Server thread/INFO]: Garridolm joined the game
+[12:29:44] [Server thread/INFO]: Async chunk loading for player Garridolm completed
+[12:29:45] [Server thread/INFO]: Garridolm lost connection: Disconnected
+[12:29:45] [Server thread/INFO]: Garridolm left the game
+[12:31:37] [pool-11-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos class_2338{x=-469, y=77, z=-213}
+[12:31:38] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-469, y=77, z=-213} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[12:31:38] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location class_2338{x=-469, y=77, z=-213}
+[12:31:38] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-469, y=77, z=-214} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[12:31:38] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location class_2338{x=-469, y=77, z=-214}
+[12:31:38] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-469, y=77, z=-212} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[12:31:38] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location class_2338{x=-469, y=77, z=-212}
+[12:31:38] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-469, y=76, z=-214} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
+[12:31:38] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location class_2338{x=-469, y=76, z=-214}
+[12:31:38] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-469, y=76, z=-212} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
+[12:31:38] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location class_2338{x=-469, y=76, z=-212}

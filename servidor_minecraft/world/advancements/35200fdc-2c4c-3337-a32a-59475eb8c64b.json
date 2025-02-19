@@ -605,6 +605,7 @@
       "cooked_cod": "2025-02-19 11:59:13 +0000",
       "rotten_flesh": "2025-02-07 11:53:26 +0000",
       "cooked_chicken": "2025-02-07 11:36:49 +0000",
+      "cod": "2025-02-19 12:22:14 +0000",
       "cooked_salmon": "2025-02-19 11:59:38 +0000"
     },
     "done": false
@@ -2169,6 +2170,18 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-02-19 12:03:00 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "has_glass": "2025-02-19 12:20:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hourglass": {
+    "criteria": {
+      "has_glass": "2025-02-19 12:20:16 +0000"
     },
     "done": true
   },
