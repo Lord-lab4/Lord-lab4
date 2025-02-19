@@ -602,8 +602,10 @@
       "cooked_porkchop": "2025-02-13 12:28:10 +0000",
       "cooked_beef": "2025-02-14 12:27:42 +0000",
       "apple": "2025-02-07 11:53:22 +0000",
+      "cooked_cod": "2025-02-19 11:59:13 +0000",
       "rotten_flesh": "2025-02-07 11:53:26 +0000",
-      "cooked_chicken": "2025-02-07 11:36:49 +0000"
+      "cooked_chicken": "2025-02-07 11:36:49 +0000",
+      "cooked_salmon": "2025-02-19 11:59:38 +0000"
     },
     "done": false
   },
@@ -2142,6 +2144,30 @@
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2025-02-19 11:53:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-02-19 12:01:28 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/slingshot": {
+    "criteria": {
+      "has_string": "2025-02-19 12:02:59 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2025-02-19 12:02:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-02-19 12:03:00 +0000"
     },
     "done": true
   },

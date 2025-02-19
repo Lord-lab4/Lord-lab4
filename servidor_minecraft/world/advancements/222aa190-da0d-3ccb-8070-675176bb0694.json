@@ -1138,6 +1138,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-02-07 13:01:11 +0000",
       "minecraft:spider": "2025-02-14 13:05:48 +0000",
+      "minecraft:slime": "2025-02-19 12:02:18 +0000",
       "minecraft:zombie": "2025-02-07 11:52:29 +0000"
     },
     "done": false
@@ -2429,6 +2430,30 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-02-19 11:55:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-02-19 12:02:23 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/slingshot": {
+    "criteria": {
+      "has_slime_ball": "2025-02-19 12:02:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-02-19 12:02:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-02-19 12:02:23 +0000"
     },
     "done": true
   },
