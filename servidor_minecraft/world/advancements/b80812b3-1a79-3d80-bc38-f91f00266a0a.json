@@ -11,6 +11,7 @@
       "minecraft:river": "2025-02-19 12:13:29 +0000",
       "minecraft:forest": "2025-02-19 12:03:44 +0000",
       "minecraft:ocean": "2025-02-19 12:38:47 +0000",
+      "minecraft:flower_forest": "2025-02-19 12:58:05 +0000",
       "minecraft:plains": "2025-02-19 12:31:54 +0000"
     },
     "done": false
@@ -714,6 +715,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-02-19 12:34:26 +0000",
+      "cooked_cod": "2025-02-19 12:59:23 +0000",
       "cooked_chicken": "2025-02-19 12:20:47 +0000"
     },
     "done": false
@@ -1183,6 +1185,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-02-19 12:32:44 +0000",
+      "minecraft:creeper": "2025-02-19 12:55:55 +0000",
       "minecraft:zombie": "2025-02-19 12:50:55 +0000"
     },
     "done": false
@@ -1307,6 +1310,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-02-19 12:54:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-02-19 12:42:42 +0000"
@@ -1322,6 +1331,18 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-19 12:43:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-02-19 12:56:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-02-19 12:53:02 +0000"
     },
     "done": true
   },
@@ -1430,6 +1451,18 @@
   "supplementaries:recipes/soap": {
     "criteria": {
       "has_water_bucket": "2025-02-19 12:39:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-02-19 12:56:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-02-19 12:56:27 +0000"
     },
     "done": true
   },
@@ -1565,6 +1598,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-02-19 12:53:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-02-19 12:43:14 +0000"
@@ -1586,6 +1625,12 @@
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-02-19 12:45:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-02-19 12:53:02 +0000"
     },
     "done": true
   },
@@ -1619,6 +1664,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-02-19 12:59:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-02-19 12:55:57 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/gold_door": {
     "criteria": {
       "has_gold_ingot": "2025-02-19 12:43:14 +0000"
@@ -1628,6 +1685,24 @@
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2025-02-19 12:45:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub": {
+    "criteria": {
+      "supplementaries:straw": "2025-02-19 12:59:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-02-19 12:59:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-02-19 12:55:57 +0000"
     },
     "done": true
   },
