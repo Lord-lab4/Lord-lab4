@@ -474,6 +474,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-02-19 12:10:28 +0000",
       "cooked_mutton": "2025-02-07 12:02:42 +0000",
       "cooked_beef": "2025-02-07 11:28:23 +0000",
       "rotten_flesh": "2025-02-14 13:24:09 +0000",
@@ -1820,6 +1821,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-02-19 12:08:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-02-19 11:59:55 +0000"
@@ -1835,6 +1842,18 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-02-19 12:00:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-02-19 12:08:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-02-19 12:08:56 +0000"
     },
     "done": true
   },
