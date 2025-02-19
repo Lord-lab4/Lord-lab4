@@ -2529,5 +2529,11 @@
     },
     "done": true
   },
+  "supplementaries:recipes/stone_lamp": {
+    "criteria": {
+      "has_stone": "2025-02-19 12:33:20 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

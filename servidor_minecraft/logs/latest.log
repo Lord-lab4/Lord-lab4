@@ -457,3 +457,40 @@
 [12:31:38] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location class_2338{x=-469, y=76, z=-214}
 [12:31:38] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-469, y=76, z=-212} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
 [12:31:38] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location class_2338{x=-469, y=76, z=-212}
+[12:32:38] [Server thread/INFO]: Kirin1243 has made the advancement [Not Today, Thank You]
+[12:32:44] [Server thread/INFO]: Kirin1243 has made the advancement [Monster Hunter]
+[12:33:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-977, y=65, z=-972} class_2338{x=-977, y=63, z=-970}
+[12:33:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-977, y=65, z=-972} class_2338{x=-977, y=63, z=-970}
+[12:33:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-977, y=65, z=-972} class_2338{x=-977, y=63, z=-970}
+[12:33:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-977, y=65, z=-972} class_2338{x=-977, y=63, z=-970}
+[12:34:01] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-969, y=65, z=-968} class_2338{x=-968, y=63, z=-966}
+[12:35:34] [Server thread/INFO]: <Grajo> zzzz
+[12:35:39] [Server thread/INFO]: LordSasha96 lost connection: Disconnected
+[12:35:39] [Server thread/INFO]: LordSasha96 left the game
+[12:35:42] [Server thread/INFO]: Garridolm[/127.172.181.126:32855] logged in with entity id 23694 at (6.5, 105.0, -9.5)
+[12:35:42] [Server thread/INFO]: Garridolm joined the game
+[12:35:42] [Server thread/INFO]: Async chunk loading for player Garridolm completed
+[12:35:42] [Server thread/INFO]: Garridolm lost connection: Disconnected
+[12:35:42] [Server thread/INFO]: Garridolm left the game
+[12:35:43] [Server thread/INFO]: <ArganisEHS> dormiendo
+[12:35:47] [Server thread/INFO]: Kirin1243 lost connection: Disconnected
+[12:35:47] [Server thread/INFO]: Kirin1243 left the game
+[12:35:53] [Server thread/INFO]: LordSasha96[/127.172.181.126:56919] logged in with entity id 23759 at (-161.54081025387893, 8.0, 237.7430070115099)
+[12:35:53] [Server thread/INFO]: LordSasha96 joined the game
+[12:35:53] [Server thread/INFO]: Async chunk loading for player LordSasha96 completed
+[12:35:55] [Server thread/INFO]: Kirin1243[/127.172.181.126:50243] logged in with entity id 23937 at (-286.89442198520004, 64.0, -207.68862276423337)
+[12:35:55] [Server thread/INFO]: Kirin1243 joined the game
+[12:35:55] [Server thread/INFO]: Async chunk loading for player Kirin1243 completed
+[12:36:40] [Server thread/INFO]: Kirin1243 has made the advancement [Voluntary Exile]
+[12:37:33] [Server thread/INFO]: Garridolm[/127.172.181.126:32875] logged in with entity id 25500 at (6.5, 105.0, -9.5)
+[12:37:33] [Server thread/INFO]: Garridolm joined the game
+[12:37:33] [Server thread/INFO]: Async chunk loading for player Garridolm completed
+[12:37:33] [Server thread/INFO]: Garridolm lost connection: Disconnected
+[12:37:33] [Server thread/INFO]: Garridolm left the game
+[12:38:13] [Server thread/INFO]: LordSasha96 lost connection: Disconnected
+[12:38:13] [Server thread/INFO]: LordSasha96 left the game
+[12:39:01] [Server thread/INFO]: Garridolm[/127.172.181.126:44329] logged in with entity id 26563 at (6.5, 105.0, -9.5)
+[12:39:01] [Server thread/INFO]: Garridolm joined the game
+[12:39:01] [Server thread/INFO]: Async chunk loading for player Garridolm completed
+[12:39:02] [Server thread/INFO]: Garridolm lost connection: Disconnected
+[12:39:02] [Server thread/INFO]: Garridolm left the game
