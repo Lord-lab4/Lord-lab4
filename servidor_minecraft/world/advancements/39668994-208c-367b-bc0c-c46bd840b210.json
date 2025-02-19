@@ -10,6 +10,7 @@
       "minecraft:birch_forest": "2025-02-18 12:20:08 +0000",
       "minecraft:river": "2025-02-18 12:15:55 +0000",
       "minecraft:forest": "2025-02-17 08:52:35 +0000",
+      "minecraft:flower_forest": "2025-02-18 12:32:33 +0000",
       "minecraft:plains": "2025-02-18 12:22:01 +0000"
     },
     "done": false
@@ -791,6 +792,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-02-18 12:11:48 +0000",
+      "cooked_mutton": "2025-02-18 12:33:34 +0000",
       "cooked_chicken": "2025-02-18 12:04:19 +0000"
     },
     "done": false
@@ -1011,6 +1013,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-02-18 12:26:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-02-18 12:20:18 +0000"
@@ -1023,9 +1031,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-02-18 12:32:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2025-02-18 12:21:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-02-18 12:31:59 +0000"
     },
     "done": true
   },
@@ -1047,9 +1067,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-02-18 12:32:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-02-18 12:32:37 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/slingshot": {
     "criteria": {
       "has_string": "2025-02-18 12:24:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-02-18 12:31:59 +0000"
     },
     "done": true
   },
@@ -1071,9 +1109,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-02-18 12:29:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-18 12:21:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-02-18 12:30:45 +0000"
     },
     "done": true
   },
@@ -1085,13 +1135,26 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:zombie": "2025-02-18 12:20:28 +0000"
+      "minecraft:zombie": "2025-02-18 12:20:28 +0000",
+      "minecraft:zombie_villager": "2025-02-18 12:26:25 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-02-18 12:26:51 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2025-02-18 12:21:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-02-18 12:26:51 +0000"
     },
     "done": true
   },
@@ -1125,6 +1188,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-02-18 12:25:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-02-18 12:24:34 +0000"
@@ -1143,6 +1212,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-02-18 12:25:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-02-18 12:31:59 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sack": {
     "criteria": {
       "has_string": "2025-02-18 12:24:34 +0000"
@@ -1158,6 +1239,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-18 12:21:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2025-02-18 12:25:25 +0000"
     },
     "done": true
   },
