@@ -1192,5 +1192,11 @@
     },
     "done": true
   },
+  "supplementaries:recipes/flower_box": {
+    "criteria": {
+      "has_dirt": "2025-02-19 13:18:05 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

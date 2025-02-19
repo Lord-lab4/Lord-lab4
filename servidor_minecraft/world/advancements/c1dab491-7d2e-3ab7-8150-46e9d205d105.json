@@ -478,6 +478,7 @@
       "cooked_porkchop": "2025-02-19 12:10:28 +0000",
       "cooked_mutton": "2025-02-07 12:02:42 +0000",
       "cooked_beef": "2025-02-07 11:28:23 +0000",
+      "cooked_cod": "2025-02-19 13:19:48 +0000",
       "rotten_flesh": "2025-02-14 13:24:09 +0000",
       "cooked_chicken": "2025-02-07 11:28:37 +0000"
     },
@@ -2228,6 +2229,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-02-19 13:11:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-02-19 13:20:12 +0000"
     },
     "done": true
   },
