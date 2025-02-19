@@ -2537,21 +2537,21 @@
     },
     "done": true
   },
-  "supplementaries:recipes/crystal_display": {
-    "criteria": {
-      "has_deepslate": "2025-02-19 12:53:29 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sign_post_oak": {
-    "criteria": {
-      "has_oak_sign": "2025-02-19 13:10:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-02-19 12:50:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2025-02-19 12:50:55 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/crystal_display": {
+    "criteria": {
+      "has_deepslate": "2025-02-19 12:53:29 +0000"
     },
     "done": true
   },
@@ -2561,9 +2561,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/sack": {
+  "supplementaries:recipes/sign_post_oak": {
     "criteria": {
-      "has_string": "2025-02-19 12:50:55 +0000"
+      "has_oak_sign": "2025-02-19 13:10:18 +0000"
     },
     "done": true
   },
