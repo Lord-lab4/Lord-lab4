@@ -797,6 +797,7 @@
       "cooked_porkchop": "2025-02-18 12:11:48 +0000",
       "cooked_mutton": "2025-02-18 12:33:34 +0000",
       "bread": "2025-02-19 12:25:10 +0000",
+      "suspicious_stew": "2025-02-20 08:29:31 +0000",
       "cooked_chicken": "2025-02-18 12:04:19 +0000"
     },
     "done": false
@@ -2250,6 +2251,54 @@
   "supplementaries:recipes/flint_block": {
     "criteria": {
       "has_flint": "2025-02-19 16:27:47 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/map": {
+    "criteria": {
+      "has_filled_map": "2025-02-20 08:25:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-02-20 08:25:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_paper": "2025-02-20 08:25:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-02-20 08:25:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-02-20 08:25:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/present": {
+    "criteria": {
+      "has_paper": "2025-02-20 08:25:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-02-20 08:29:31 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:husbandry/sus_stew": {
+    "criteria": {
+      "stew": "2025-02-20 08:29:31 +0000"
     },
     "done": true
   },

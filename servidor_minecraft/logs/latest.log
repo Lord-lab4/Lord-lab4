@@ -320,3 +320,7 @@
 [07:44:39] [Server thread/INFO]: There are 1 of a max of 20 players online: Grajo
 [07:57:38] [Server thread/INFO]: There are 1 of a max of 20 players online: Grajo
 [07:58:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-928, y=76, z=-933} class_2338{x=-927, y=75, z=-933}
+[08:25:50] [Server thread/WARN]: Boat (vehicle of Grajo) moved wrongly! 0.3163929489526538
+[08:29:31] [Server thread/INFO]: Grajo has reached the goal [When the Stew is Sus]
+[08:32:31] [Server thread/INFO]: Grajo lost connection: Disconnected
+[08:32:31] [Server thread/INFO]: Grajo left the game
