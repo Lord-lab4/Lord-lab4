@@ -318,3 +318,5 @@
 [07:44:30] [Server thread/INFO]: Async chunk loading for player Grajo completed
 [07:44:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
 [07:44:39] [Server thread/INFO]: There are 1 of a max of 20 players online: Grajo
+[07:57:38] [Server thread/INFO]: There are 1 of a max of 20 players online: Grajo
+[07:58:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-928, y=76, z=-933} class_2338{x=-927, y=75, z=-933}
