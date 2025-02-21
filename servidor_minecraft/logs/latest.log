@@ -476,3 +476,74 @@
 [12:28:46] [Server thread/INFO]: effect @e regeneration 3 30<--[HERE]
 [12:28:51] [Server thread/INFO]: Incorrect argument for command
 [12:28:51] [Server thread/INFO]: effect @e regeneration 3 30<--[HERE]
+[12:30:03] [Server thread/INFO]: Incorrect argument for command
+[12:30:03] [Server thread/INFO]: effect @e regeneration 2 30<--[HERE]
+[12:30:15] [Server thread/INFO]: Incorrect argument for command
+[12:30:15] [Server thread/INFO]: effect @a regeneration 2 30<--[HERE]
+[12:30:24] [Server thread/INFO]: Incorrect argument for command
+[12:30:24] [Server thread/INFO]: effect @p regeneration 2 30<--[HERE]
+[12:30:30] [Server thread/INFO]: Incorrect argument for command
+[12:30:30] [Server thread/INFO]: effect @p regeneration 2<--[HERE]
+[12:30:33] [Server thread/INFO]: Incorrect argument for command
+[12:30:33] [Server thread/INFO]: effect @p regeneration<--[HERE]
+[12:30:50] [Server thread/INFO]: Unknown item 'minecraft:enchanted_apple'
+[12:30:50] [Server thread/INFO]: give @a enchanted_apple 2<--[HERE]
+[12:30:57] [Server thread/INFO]: <Kirin1243> teneis redstone
+[12:31:09] [Server thread/INFO]: <ArganisEHS> si tengo
+[12:31:22] [Server thread/INFO]: <Kirin1243> me das 1
+[12:31:33] [Server thread/INFO]: <ArganisEHS> creo que estas un poco lejos xD
+[12:31:45] [Server thread/INFO]: <Kirin1243> estoy en tu puerta
+[12:32:17] [Server thread/INFO]: Gave 128 [Redstone Dust] to 3
+[12:32:28] [Server thread/INFO]: <ArganisEHS> te ha dado el servidor xD
+[12:32:30] [Server thread/INFO]: [Server] Sorry :(
+[12:32:40] [Server thread/INFO]: <Kirin1243> ADMIN ERES UN BESTIA DANDO MERCANCIA
+[12:32:50] [Server thread/INFO]: [Server] jajajaja
+[12:32:54] [Server thread/INFO]: <ArganisEHS> drojaaaaaaaaaaaaaaa
+[12:33:12] [Server thread/INFO]: Unknown item 'minecraft:oak_leave'
+[12:33:12] [Server thread/INFO]: give @a oak_leave 5<--[HERE]
+[12:33:36] [Server thread/INFO]: Gave 5 [Oak Leaves] to 3
+[12:33:44] [Server thread/INFO]: [Server] ahi tienen la hierba
+[12:33:47] [Server thread/INFO]: [Server] :)
+[12:34:09] [Server thread/INFO]: <Kirin1243> me falta el mechero
+[12:34:23] [Server thread/INFO]: Gave 5 [Ender Pearl] to 3
+[12:35:01] [Server thread/INFO]: [Server] /summon maldad
+[12:35:48] [Server thread/INFO]: ArganisEHS has made the advancement [Ice Bucket Challenge]
+[12:35:48] [Server thread/INFO]: Lucky has made the advancement [Ice Bucket Challenge]
+[12:35:48] [Server thread/INFO]: Kirin1243 has made the advancement [Ice Bucket Challenge]
+[12:35:48] [Server thread/INFO]: Gave 5 [Obsidian] to 3
+[12:35:58] [Server thread/INFO]: <Lucky> me habeis robado la cama....
+[12:36:03] [Server thread/INFO]: [Server] Sorry :)
+[12:36:18] [Server thread/INFO]: <Kirin1243> admin time set day
+[12:36:23] [Server thread/INFO]: [Server] /kill Mary
+[12:36:35] [Server thread/INFO]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[12:36:35] [Server thread/INFO]: Search succeeded: 3406 radius, 4631 samples
+[12:36:37] [Server thread/INFO]: Unknown item 'minecraft:bed'
+[12:36:37] [Server thread/INFO]: ...ive Lucky bed<--[HERE]
+[12:36:49] [Server thread/INFO]: Gave 1 [Red Bed] to Lucky
+[12:37:13] [Server thread/INFO]: Lucky was killed
+[12:37:13] [Server thread/INFO]: Killed Lucky
+[12:37:19] [Server thread/INFO]: [Server] por quejarte
+[12:37:22] [Server thread/INFO]: <Kirin1243> bueno pareja has estado bien la visita me voy a buscar la tierra prometida
+[12:38:09] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[12:38:09] [Server thread/INFO]: exp @a give 100<--[HERE]
+[12:38:19] [Server thread/INFO]: Incorrect argument for command
+[12:38:19] [Server thread/INFO]: xp @a give 100<--[HERE]
+[12:38:50] [Server thread/INFO]: Gave 100 experience points to 3 players
+[12:39:02] [Server thread/INFO]: Gave 500 experience points to 3 players
+[12:39:10] [Server thread/INFO]: [Server] Sorry :(
+[12:39:16] [Server thread/INFO]: [Server] Amor y Paz
+[12:39:26] [Server thread/INFO]: <Kirin1243> esta perdonado de momento
+[12:39:30] [Server thread/INFO]: ArganisEHS has made the advancement [Enchanter]
+[12:39:39] [Server thread/INFO]: [Server] Sorry
+[12:40:24] [Server thread/INFO]: Unknown item 'minecraft:villager_egg'
+[12:40:24] [Server thread/INFO]: give @a villager_egg 5<--[HERE]
+[12:40:51] [Server thread/INFO]: Gave 5 [Villager Spawn Egg] to 3
+[12:41:14] [Server thread/INFO]: [Server] los huevos son porque con todo lo que ha pasado los aldeanos tambien pasaron a mejor vida
+[12:41:43] [Server thread/INFO]: [Server] Sorry
+[12:42:09] [Server thread/INFO]: Gave 300 experience points to 3 players
+[12:43:24] [Server thread/INFO]: Kirin1243 lost connection: Disconnected
+[12:43:24] [Server thread/INFO]: Kirin1243 left the game
+[12:48:53] [Server thread/INFO]: ArganisEHS lost connection: Disconnected
+[12:48:53] [Server thread/INFO]: ArganisEHS left the game
+[12:48:59] [Server thread/INFO]: Lucky lost connection: Disconnected
+[12:48:59] [Server thread/INFO]: Lucky left the game
