@@ -434,3 +434,45 @@
 [12:11:02] [Server thread/INFO]: Kirin1243 lost connection: Disconnected
 [12:11:02] [Server thread/INFO]: Kirin1243 left the game
 [12:11:05] [Server thread/INFO]: Lucky was slain by Elder Guardian
+[12:19:46] [Server thread/INFO]: Teleported Lucky to -84.500000, 62.000000, 495.500000
+[12:19:55] [Server thread/INFO]: Lucky was slain by Zombie
+[12:20:13] [Server thread/INFO]: Villager class_1646['Villager'/17937, l='ServerLevel[world]', x=-81.76, y=61.38, z=493.31] died, message: 'Villager was slain by Zombie'
+[12:20:32] [Server thread/INFO]: Set the time to 1000
+[12:20:51] [Server thread/INFO]: Villager class_1646['Villager'/18007, l='ServerLevel[world]', x=-73.80, y=62.51, z=524.84] died, message: 'Villager was slain by Drowned'
+[12:20:53] [Server thread/INFO]: Lucky was killed
+[12:20:53] [Server thread/INFO]: ArganisEHS was killed
+[12:20:53] [Server thread/INFO]: Villager class_1646['Villager'/17950, l='ServerLevel[world]', x=-94.35, y=68.00, z=438.71] died, message: 'Villager was killed'
+[12:20:53] [Server thread/INFO]: Villager class_1646['Weaponsmith'/18133, l='ServerLevel[world]', x=-79.31, y=62.51, z=547.20] died, message: 'Weaponsmith was killed'
+[12:20:53] [Server thread/INFO]: Villager class_1646['Villager'/18148, l='ServerLevel[world]', x=-106.70, y=69.42, z=434.67] died, message: 'Villager was killed'
+[12:20:53] [Server thread/INFO]: Villager class_1646['Mason'/18204, l='ServerLevel[world]', x=-107.10, y=62.51, z=535.70] died, message: 'Mason was killed'
+[12:20:53] [Server thread/INFO]: Villager class_1646['Villager'/18254, l='ServerLevel[world]', x=-147.51, y=80.00, z=450.94] died, message: 'Villager was killed'
+[12:20:53] [Server thread/INFO]: Killed 503 entities
+[12:21:19] [Server thread/INFO]: Only players may be affected by this command, but the provided selector includes entities
+[12:21:19] [Server thread/INFO]: give @e diamond 10<--[HERE]
+[12:21:43] [Server thread/INFO]: Gave 10 [Diamond] to Lucky
+[12:22:34] [Server thread/INFO]: Kirin1243[/127.172.181.126:56345] logged in with entity id 19478 at (-22.470154927439815, 110.0, 4.462219324123133)
+[12:22:34] [Server thread/INFO]: Kirin1243 joined the game
+[12:22:34] [Server thread/INFO]: Async chunk loading for player Kirin1243 completed
+[12:22:41] [Server thread/INFO]: Gave 10 [Diamond] to 3
+[12:22:56] [Server thread/INFO]: [Server] les he dado diamantes, perdon :(
+[12:23:18] [Server thread/INFO]: <Kirin1243> dame una espada y escudo al menos
+[12:23:24] [Server thread/INFO]: Gave 64 [Iron Ingot] to 3
+[12:23:45] [Server thread/INFO]: Unknown item 'minecraft:enchanted_apple'
+[12:23:45] [Server thread/INFO]: give @a enchanted_apple<--[HERE]
+[12:24:33] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[12:24:33] [Server thread/INFO]: dive @a golden_apple 3<--[HERE]
+[12:25:30] [Server thread/INFO]: Gave 5 [Golden Apple] to Kirin1243
+[12:26:14] [Server thread/INFO]: Gave 5 [Golden Apple] to 3
+[12:26:25] [Server thread/INFO]: <Kirin1243> como era el mapa
+[12:26:39] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[12:26:39] [Server thread/INFO]: y es un mod<--[HERE]
+[12:27:08] [Server thread/INFO]: You whisper to Kirin1243: es un mod
+[12:27:21] [Server thread/INFO]: You whisper to Kirin1243: se llama Xaeros minimap y xaeros worldmap
+[12:27:37] [Server thread/INFO]: Incorrect argument for command
+[12:27:37] [Server thread/INFO]: effect @a regeneration 10<--[HERE]
+[12:28:14] [Server thread/INFO]: Incorrect argument for command
+[12:28:14] [Server thread/INFO]: effect @a regeneration 1 20<--[HERE]
+[12:28:46] [Server thread/INFO]: Incorrect argument for command
+[12:28:46] [Server thread/INFO]: effect @e regeneration 3 30<--[HERE]
+[12:28:51] [Server thread/INFO]: Incorrect argument for command
+[12:28:51] [Server thread/INFO]: effect @e regeneration 3 30<--[HERE]
