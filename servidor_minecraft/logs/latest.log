@@ -341,3 +341,31 @@
 [11:34:53] [Server thread/INFO]: Async chunk loading for player Lucky completed
 [11:35:12] [Server thread/INFO]: Gave 1 [Water Bucket] to ArganisEHS
 [11:37:40] [Server thread/INFO]: [Server] Los dioses son bondadosos
+[11:39:25] [Server thread/INFO]: Teleported ArganisEHS to Lucky
+[11:41:44] [Server thread/INFO]: <Lucky> djkfgdlkg
+[11:41:51] [Server thread/INFO]: ArganisEHS lost connection: Disconnected
+[11:41:51] [Server thread/INFO]: ArganisEHS left the game
+[11:41:53] [Server thread/INFO]: Teleported 183 entities to Lucky
+[11:42:03] [Server thread/INFO]: Lucky was blown up by Creeper
+[11:42:21] [Server thread/INFO]: ArganisEHS[/127.172.181.126:46107] logged in with entity id 6972 at (-19.409297994590094, 85.0, 497.41392824402493)
+[11:42:21] [Server thread/INFO]: ArganisEHS joined the game
+[11:42:21] [Server thread/INFO]: Async chunk loading for player ArganisEHS completed
+[11:42:49] [Server thread/INFO]: Gave 20 [Iron Ingot] to Lucky
+[11:43:19] [Server thread/INFO]: Unknown item 'minecraft:diamont'
+[11:43:19] [Server thread/INFO]: ...ive Lucky diamont 2<--[HERE]
+[11:43:33] [Server thread/INFO]: Unknown item 'minecraft:diamont_block'
+[11:43:33] [Server thread/INFO]: ...ive Lucky diamont_block<--[HERE]
+[11:44:32] [Server thread/INFO]: Lucky has made the advancement [Diamonds!]
+[11:44:32] [Server thread/INFO]: Gave 2 [Diamond] to Lucky
+[11:44:34] [Server thread/INFO]: Kirin1243[/127.172.181.126:43885] logged in with entity id 7773 at (-668.5, 67.0, -684.5)
+[11:44:34] [Server thread/INFO]: Kirin1243 joined the game
+[11:44:34] [Server thread/INFO]: Async chunk loading for player Kirin1243 completed
+[11:45:25] [Server thread/INFO]: Gave 3 [Diamond] to Lucky
+[11:45:48] [Server thread/INFO]: [Server] Los dioses quieren paz
+[11:45:52] [Server thread/INFO]: [Server] :)
+[11:46:06] [Server thread/INFO]: [Server] Amor y Paz
+[11:47:06] [Server thread/INFO]: <ArganisEHS> bolt armor
+[11:47:28] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+[11:47:28] [Server thread/INFO]: ... diamond 2give ArganisEHS bolt_armor<--[HERE]
+[11:47:58] [Server thread/INFO]: Unknown item 'minecraft:bolt_armor'
+[11:47:58] [Server thread/INFO]: ...rganisEHS bolt_armor<--[HERE]
