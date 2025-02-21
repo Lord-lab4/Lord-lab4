@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-02-21 08:04:57 +0000",
       "minecraft:beach": "2025-02-13 12:23:49 +0000",
       "minecraft:river": "2025-02-13 12:18:24 +0000",
       "minecraft:forest": "2025-02-07 10:05:48 +0000",
@@ -2607,6 +2608,24 @@
   "supplementaries:recipes/decorations/sign_post_birch": {
     "criteria": {
       "has_item": "2025-02-19 17:26:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-02-21 08:07:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-02-21 08:07:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-02-21 08:07:23 +0000"
     },
     "done": true
   },

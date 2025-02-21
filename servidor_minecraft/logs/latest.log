@@ -336,3 +336,11 @@
 [08:00:13] [Server thread/INFO]: [Server] con un solo click
 [08:00:26] [Server thread/INFO]: [Server] gracias por hacerme caso :(
 [08:05:31] [Server thread/INFO]: Lucky drowned
+[08:09:17] [Server thread/INFO]: Changed the block at -275, 70, 560
+[08:09:49] [Server thread/INFO]: Changed the block at -268, 63, 566
+[08:12:29] [Server thread/INFO]: Expected integer
+[08:12:29] [Server thread/INFO]: setblock Lucky ~ ~ ~ dirt<--[HERE]
+[08:12:46] [Server thread/INFO]: Changed the block at 0, 113, 0
+[08:14:34] [Server thread/INFO]: [Server] me meto a ayudarles :)
+[08:14:51] [Server thread/INFO]: [Server] pero solo es AYUDA
+[08:18:49] [Server thread/INFO]: Lucky drowned
