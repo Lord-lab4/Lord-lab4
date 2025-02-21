@@ -12,6 +12,7 @@
       "minecraft:river": "2025-02-13 12:18:24 +0000",
       "minecraft:forest": "2025-02-07 10:05:48 +0000",
       "minecraft:ocean": "2025-02-21 08:04:12 +0000",
+      "minecraft:flower_forest": "2025-02-21 08:42:27 +0000",
       "minecraft:plains": "2025-02-14 08:25:36 +0000"
     },
     "done": false
@@ -1144,6 +1145,7 @@
       "minecraft:spider": "2025-02-14 13:05:48 +0000",
       "minecraft:slime": "2025-02-19 12:02:18 +0000",
       "minecraft:zombie": "2025-02-07 11:52:29 +0000",
+      "minecraft:drowned": "2025-02-21 08:47:29 +0000",
       "minecraft:zombie_villager": "2025-02-19 12:49:41 +0000"
     },
     "done": false
@@ -2612,6 +2614,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-02-21 08:43:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2025-02-21 08:07:23 +0000"
@@ -2690,6 +2698,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-02-21 08:41:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-02-21 08:30:30 +0000"
@@ -2702,15 +2716,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-02-21 08:40:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-21 08:19:08 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-02-21 08:40:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-21 08:19:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-02-21 08:43:06 +0000"
     },
     "done": true
   },
@@ -2729,6 +2761,12 @@
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-21 08:19:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-02-21 08:43:06 +0000"
     },
     "done": true
   },
