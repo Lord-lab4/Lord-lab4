@@ -717,6 +717,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-02-21 12:59:14 +0000",
       "cooked_beef": "2025-02-19 12:34:26 +0000",
       "cooked_cod": "2025-02-19 12:59:23 +0000",
       "golden_apple": "2025-02-21 12:31:14 +0000",
@@ -1820,12 +1821,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_obsidian": "2025-02-21 12:35:48 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/redstone_illuminator": {
     "criteria": {
       "has_redstone": "2025-02-21 12:32:17 +0000"
@@ -1850,12 +1845,6 @@
     },
     "done": true
   },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-02-21 12:35:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-02-21 12:32:17 +0000"
@@ -1868,12 +1857,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/enchanting_table": {
-    "criteria": {
-      "has_obsidian": "2025-02-21 12:35:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-02-21 12:32:17 +0000"
@@ -1883,6 +1866,24 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-02-21 12:32:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-02-21 12:35:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-02-21 12:35:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-02-21 12:35:48 +0000"
     },
     "done": true
   },
