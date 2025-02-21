@@ -563,6 +563,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chicken": "2025-02-21 13:11:41 +0000",
       "beef": "2025-02-19 13:09:48 +0000",
       "mutton": "2025-02-19 12:51:58 +0000"
     },
@@ -1195,6 +1196,42 @@
   "supplementaries:recipes/flower_box": {
     "criteria": {
       "has_dirt": "2025-02-19 13:18:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-02-21 13:10:23 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-02-21 13:10:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-02-21 13:10:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-02-21 13:10:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-02-21 13:10:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-02-21 13:10:26 +0000"
     },
     "done": true
   },
