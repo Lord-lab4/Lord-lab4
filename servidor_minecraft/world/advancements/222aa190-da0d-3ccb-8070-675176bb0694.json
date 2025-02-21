@@ -2800,5 +2800,29 @@
     },
     "done": true
   },
+  "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
+    "criteria": {
+      "armor_trimmed_minecraft:vex_armor_trim_smithing_template_smithing_trim": "2025-02-21 11:51:41 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-02-21 11:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_minecraft:vex_armor_trim_smithing_template_smithing_trim": "2025-02-21 11:51:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2025-02-21 11:49:58 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
