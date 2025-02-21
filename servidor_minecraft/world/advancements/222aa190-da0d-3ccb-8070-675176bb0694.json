@@ -2567,21 +2567,15 @@
     },
     "done": true
   },
+  "supplementaries:recipes/wrench": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-19 17:19:16 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/feather_block": {
     "criteria": {
       "has_feather": "2025-02-19 17:20:28 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sign_post_birch": {
-    "criteria": {
-      "has_the_recipe": "2025-02-19 17:26:27 +0000"
-    },
-    "done": true
-  },
-  "suppsquared:recipes/decorations/item_shelf_birch": {
-    "criteria": {
-      "has_item": "2025-02-19 17:26:27 +0000"
     },
     "done": true
   },
@@ -2597,9 +2591,15 @@
     },
     "done": true
   },
-  "supplementaries:recipes/wrench": {
+  "supplementaries:recipes/sign_post_birch": {
     "criteria": {
-      "has_copper_ingot": "2025-02-19 17:19:16 +0000"
+      "has_the_recipe": "2025-02-19 17:26:27 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/item_shelf_birch": {
+    "criteria": {
+      "has_item": "2025-02-19 17:26:27 +0000"
     },
     "done": true
   },
