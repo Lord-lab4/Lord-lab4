@@ -309,3 +309,6 @@
 [12:31:29] [Server thread/INFO]: Lucky[/127.172.181.126:57407] logged in with entity id 14 at (-32.621825260509794, 64.0, 505.4412803069689)
 [12:31:30] [Server thread/INFO]: Lucky joined the game
 [12:31:34] [Server thread/INFO]: Async chunk loading for player Lucky completed
+[12:37:13] [Server thread/INFO]: Set the time to 1000
+[12:37:41] [Server thread/INFO]: Lucky lost connection: Disconnected
+[12:37:41] [Server thread/INFO]: Lucky left the game
