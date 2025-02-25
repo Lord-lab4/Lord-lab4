@@ -306,3 +306,6 @@
 [11:45:46] [Worker-ResourceReload-0/INFO]: Force-loading class com.mojang.datafixers.types.templates.TaggedChoice
 [11:45:46] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_4103$class_4104
 [11:45:46] [Worker-ResourceReload-0/WARN]: Cleared mixin data structures
+[12:31:29] [Server thread/INFO]: Lucky[/127.172.181.126:57407] logged in with entity id 14 at (-32.621825260509794, 64.0, 505.4412803069689)
+[12:31:30] [Server thread/INFO]: Lucky joined the game
+[12:31:34] [Server thread/INFO]: Async chunk loading for player Lucky completed
