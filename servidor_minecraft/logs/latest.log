@@ -1,5 +1,5 @@
-[11:18:35] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.3
-[11:18:39] [main/INFO]: Loading 111 mods:
+[11:45:16] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.3
+[11:45:17] [main/INFO]: Loading 111 mods:
 	- amendments 1.20-1.2.18
 	   \-- mixinextras 0.4.1
 	- c2me 0.2.0+alpha.11.13
@@ -128,465 +128,181 @@
 	   |-- com_twelvemonkeys_imageio_imageio-webp 3.10.0
 	   |-- org_quiltmc_parsers_gson 0.2.1
 	   \-- org_quiltmc_parsers_json 0.2.1
-[11:18:40] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Lord-lab4/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[11:18:40] [main/INFO]: Compatibility level set to JAVA_17
-[11:18:41] [main/INFO]: Initializing com.ishland.c2me.base.mixin
-[11:18:41] [main/INFO]: Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
-[11:18:41] [main/INFO]: Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
-[11:18:41] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
-[11:18:41] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
-[11:18:41] [main/INFO]: Initializing com.ishland.c2me.notickvd.mixin
-[11:18:41] [main/INFO]: Initializing com.ishland.c2me.opts.allocs.mixin
-[11:18:41] [main/INFO]: Initializing com.ishland.c2me.opts.chunk_access.mixin
-[11:18:41] [main/INFO]: Initializing com.ishland.c2me.opts.chunkio.mixin
-[11:18:41] [main/INFO]: Initializing com.ishland.c2me.opts.math.mixin
-[11:18:41] [main/INFO]: Initializing com.ishland.c2me.opts.scheduling.mixin
-[11:18:41] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.general.mixin
-[11:18:41] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
-[11:18:41] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunk_serializer.mixin
-[11:18:41] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunkio.mixin
-[11:18:41] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunkio.mixin
-[11:18:41] [main/INFO]: Initializing com.ishland.c2me.server.utils.mixin
-[11:18:41] [main/INFO]: Initializing com.ishland.c2me.threading.chunkio.mixin
-[11:18:41] [main/INFO]: Initializing com.ishland.c2me.threading.lighting.mixin
-[11:18:41] [main/INFO]: Initializing com.ishland.c2me.threading.worldgen.mixin
-[11:18:42] [main/INFO]: Loaded configuration file for Lithium: 115 options available, 3 override(s) found
-[11:18:42] [main/INFO]: Loaded configuration file for ModernFix 5.19.4+mc1.20.1: 61 options available, 13 override(s) found
-[11:18:42] [main/WARN]: Option 'mixin.bugfix.paper_chunk_patches' overriden (by mods [c2me]) to 'false'
-[11:18:42] [main/WARN]: Option 'mixin.perf.faster_item_rendering' overriden (by user configuration) to 'true'
-[11:18:42] [main/WARN]: Option 'mixin.perf.dynamic_resources' overriden (by user configuration) to 'true'
-[11:18:42] [main/WARN]: Option 'mixin.perf.cache_strongholds' overriden (by mods [c2me]) to 'false'
-[11:18:42] [main/WARN]: Option 'mixin.perf.clear_mixin_classinfo' overriden (by user configuration) to 'true'
-[11:18:42] [main/WARN]: Option 'mixin.perf.deduplicate_location' overriden (by user configuration) to 'true'
-[11:18:42] [main/WARN]: Option 'mixin.perf.dynamic_entity_renderers' overriden (by user configuration) to 'true'
-[11:18:42] [main/WARN]: Option 'mixin.perf.nbt_memory_usage' overriden (by mods [c2me]) to 'false'
-[11:18:42] [main/WARN]: Option 'mixin.perf.clear_fabric_mapping_tables' overriden (by user configuration) to 'true'
-[11:18:42] [main/WARN]: Option 'mixin.bugfix.packet_leak' overriden (by user configuration) to 'true'
-[11:18:42] [main/WARN]: Option 'mixin.bugfix.chunk_deadlock' overriden (by mods [c2me]) to 'false'
-[11:18:42] [main/WARN]: Option 'mixin.perf.worldgen_allocation' overriden (by user configuration) to 'true'
-[11:18:42] [main/WARN]: Option 'mixin.perf.thread_priorities' overriden (by mods [threadtweak]) to 'false'
-[11:18:42] [main/INFO]: Applying Nashorn fix
-[11:18:42] [main/INFO]: Successfully started async appender with [ServerGuiConsole, SysOut, File]
-[11:18:43] [main/WARN]: Error loading class: ca/spottedleaf/starlight/common/light/SWMRNibbleArray$SaveState (java.lang.ClassNotFoundException: ca/spottedleaf/starlight/common/light/SWMRNibbleArray$SaveState)
-[11:18:44] [main/WARN]: Mixin malte0811.ferritecore.mixin.threaddetec.PalettedContainerMixin is disabled automatically as lithium is installed
-[11:18:44] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
-[11:18:44] [main/WARN]: Force-disabling mixin 'block.moving_block_shapes.PistonBlockEntityMixin' as rule 'mixin.block.moving_block_shapes' (added by mods [supplementaries]) disables it and children
-[11:18:44] [main/WARN]: Force-disabling mixin 'block.moving_block_shapes.VoxelShapeMixin' as rule 'mixin.block.moving_block_shapes' (added by mods [supplementaries]) disables it and children
-[11:18:44] [main/WARN]: Force-disabling mixin 'world.player_chunk_tick.ThreadedAnvilChunkStorageMixin' as rule 'mixin.world.player_chunk_tick' (added by mods [c2me, vmp]) disables it and children
-[11:18:44] [main/WARN]: Error loading class: vectorwing/farmersdelight/common/block/TomatoVineBlock (java.lang.ClassNotFoundException: vectorwing/farmersdelight/common/block/TomatoVineBlock)
-[11:18:44] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer)
-[11:18:45] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[11:18:46] [main/INFO]: ThreadTweak config initialized
-[11:18:49] [main/INFO]: Mixing common.MixinFriendlyByteBuf from mixins/common/nochatreports.mixins.json into net.minecraft.class_2540
-[11:18:49] [main/INFO]: Renaming synthetic method lambda$onWriteJsonWithCodec$1(Ljava/lang/Object;Ljava/lang/String;)Lio/netty/handler/codec/EncoderException; to mdcb6b95$nochatreports$lambda$onWriteJsonWithCodec$1$0 in mixins/common/nochatreports.mixins.json:common.MixinFriendlyByteBuf from mod nochatreports
-[11:18:49] [main/INFO]: Renaming synthetic method lambda$onReadJsonWithCodec$0(Ljava/lang/String;)Lio/netty/handler/codec/DecoderException; to mdcb6b95$nochatreports$lambda$onReadJsonWithCodec$0$1 in mixins/common/nochatreports.mixins.json:common.MixinFriendlyByteBuf from mod nochatreports
-[11:18:52] [main/INFO]: Injecting BlockStateBase cache population hook into getNeighborPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
-[11:18:52] [main/INFO]: Injecting BlockStateBase cache population hook into getPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
-[11:18:52] [main/INFO]: Injecting BlockStateBase cache population hook into getAllFlags from me.jellysquid.mods.lithium.mixin.util.block_tracking.AbstractBlockStateMixin
-[11:18:56] [main/INFO]: Mixing server.MixinServerGamePacketListenerImpl from mixins/common/nochatreports.mixins.json into net.minecraft.class_3244
-[11:18:57] [main/WARN]: Method overwrite conflict for method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by me.jellysquid.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
-[11:18:57] [main/INFO]: Vanilla bootstrap took 8670 milliseconds
-[11:18:58] [main/INFO]: Loaded config amendments-common.json
-[11:18:58] [main/INFO]: KONNICHIWA ZA WARUDO!
-[11:18:58] [main/INFO]: Default JVM text encoding is: UTF-8
-[11:18:58] [main/INFO]: Reading config file NoChatReports/NCR-Common.json...
-[11:18:58] [main/INFO]: Writing config file NoChatReports/NCR-Common.json...
-[11:18:58] [main/INFO]: Loading Noisium.
-[11:18:59] [main/INFO]: Loaded config supplementaries-common.json
-[11:19:01] [main/INFO]: Mixing server.MixinServerboundChatSessionUpdatePacket from mixins/common/nochatreports.mixins.json into net.minecraft.class_7861
-[11:19:01] [main/INFO]: Mixing server.MixinServerboundChatCommandPacket from mixins/common/nochatreports.mixins.json into net.minecraft.class_7472
-[11:19:01] [main/INFO]: Mixing server.MixinServerboundChatPacket from mixins/common/nochatreports.mixins.json into net.minecraft.class_2797
-[11:19:02] [main/INFO]: Initialized block sets in 50ms
-[11:19:03] [main/INFO]: Loaded config moonlight-common.json
-[11:19:03] [main/INFO]: Initialized color sets in 61ms
-[11:19:03] [main/INFO]: Finished mod setup in: [0, 7, 0, 6, 0, 0, 28, 3, 0] ms
-[11:19:03] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[11:19:03] [main/INFO]: Bypassed Mojang DFU
-[11:19:04] [main/INFO]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 73 ms
-[11:19:04] [main/INFO]: Generated runtime SERVER_DATA for pack Suppsquared Generated Pack (suppsquared) in: 63 ms
-[11:19:06] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
-[11:19:06] [Worker-Main-3/ERROR]: Couldn't load tag supplementaries:lunch_basket_blacklist as it is missing following references: potionbundles:potion_bundle (from fabric)
-[11:19:07] [main/INFO]: Loaded 7 recipes
-[11:19:07] [main/ERROR]: Parsing error loading custom advancement supplementaries:recipes/planter_rich: Unknown item id 'farmersdelight:rich_soil'
-[11:19:07] [main/ERROR]: Parsing error loading custom advancement explorerscompass:explorers_compass_cracked_stone_bricks: Expected items to be a JsonArray, was "min...ks"
-[11:19:08] [main/ERROR]: Parsing error loading custom advancement naturescompass:natures_compass: Expected items to be a JsonArray, was "min...ss"
-[11:19:08] [main/ERROR]: Parsing error loading custom advancement explorerscompass:explorers_compass_cobweb: Expected items to be a JsonArray, was "min...eb"
-[11:19:08] [main/ERROR]: Parsing error loading custom advancement explorerscompass:explorers_compass: Expected items to be a JsonArray, was "min...ss"
-[11:19:08] [main/INFO]: Loaded 1474 advancements
-[11:19:08] [main/INFO]: Loaded 27 flute songs
-[11:19:08] [main/INFO]: Applied 7 data villager trades
-[11:19:08] [main/INFO]: Finished additional setup in 0 ms
-[11:19:08] [main/INFO]: Mixing server.MixinDedicatedServer from mixins/common/nochatreports.mixins.json into net.minecraft.class_3176
-[11:19:08] [main/INFO]: Mixing server.MixinPlayerList from mixins/common/nochatreports.mixins.json into net.minecraft.class_3324
-[11:19:08] [main/INFO]: Applied 107 biome modifications to 54 of 64 new biomes in 15.59 ms
-[11:19:08] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[11:19:08] [Server thread/INFO]: Loading properties
-[11:19:08] [Server thread/INFO]: Default game type: SURVIVAL
-[11:19:08] [Server thread/INFO]: Generating keypair
-[11:19:09] [Server thread/INFO]: Starting Minecraft server on *:25565
-[11:19:09] [Server thread/INFO]: Using epoll channel type
-[11:19:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[11:19:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[11:19:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[11:19:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[11:19:09] [Server thread/INFO]: Preparing level "world"
-[11:19:09] [Server thread/INFO]: Enforcing safe world random access
-[11:19:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[11:19:19] [C2ME worker #1/INFO]: Preparing spawn area: 0%
-[11:19:19] [C2ME worker #1/INFO]: Preparing spawn area: 0%
-[11:19:19] [C2ME worker #1/INFO]: Preparing spawn area: 0%
-[11:19:19] [C2ME worker #1/INFO]: Preparing spawn area: 0%
-[11:19:20] [C2ME worker #1/INFO]: Preparing spawn area: 0%
-[11:19:20] [C2ME worker #1/INFO]: Preparing spawn area: 3%
-[11:19:21] [C2ME worker #1/INFO]: Preparing spawn area: 8%
-[11:19:21] [minecraft_overworld - Light/INFO]: Preparing spawn area: 12%
-[11:19:22] [C2ME worker #1/INFO]: Preparing spawn area: 20%
-[11:19:22] [C2ME worker #1/INFO]: Preparing spawn area: 33%
-[11:19:23] [minecraft_overworld - Light/INFO]: Preparing spawn area: 42%
-[11:19:23] [C2ME worker #1/INFO]: Preparing spawn area: 61%
-[11:19:24] [C2ME worker #1/INFO]: Preparing spawn area: 69%
-[11:19:24] [minecraft_overworld - Light/INFO]: Preparing spawn area: 82%
-[11:19:25] [minecraft_overworld - Light/INFO]: Preparing spawn area: 95%
-[11:19:25] [Server thread/INFO]: Time elapsed: 7397 ms
-[11:19:25] [Server thread/INFO]: Done (15.882s)! For help, type "help"
-[11:19:25] [Server thread/WARN]: Dedicated server took 62.338 seconds to load
-[11:19:25] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_7788
-[11:19:25] [Worker-ResourceReload-0/INFO]: Force-loading class com.ishland.c2me.notickvd.common.NoTickChunkSendingInterceptor
-[11:19:25] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_5361
-[11:19:25] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_4590
-[11:19:25] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_22$class_23
-[11:19:25] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_6350$class_6351
-[11:19:25] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_6686$class_6694
-[11:19:26] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_3304
-[11:19:26] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_3421
-[11:19:26] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_2926
-[11:19:26] [Worker-ResourceReload-0/INFO]: Mixing common.MixinServerStatus from mixins/common/nochatreports.mixins.json into net.minecraft.class_2926
-[11:19:26] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_2405
-[11:19:26] [Worker-ResourceReload-0/INFO]: Force-loading class com.mojang.datafixers.types.templates.TaggedChoice$TaggedChoiceType
-[11:19:26] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_3231
-[11:19:26] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_5454
-[11:19:26] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_4243
-[11:19:26] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_6746
-[11:19:26] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_6306
-[11:19:26] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_3131$class_3132
-[11:19:26] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_3244$1
-[11:19:26] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_6748
-[11:19:26] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_3366$class_3388
-[11:19:26] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_6749
-[11:19:26] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_6540$class_6541
-[11:19:26] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_6582
-[11:19:26] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_2985
-[11:19:26] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_1258
-[11:19:26] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_6540
-[11:19:26] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_3233
-[11:19:26] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_4246
-[11:19:26] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_3390$class_3404
-[11:19:26] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_3962$class_3963
-[11:19:26] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_3509
-[11:19:26] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_4916
-[11:19:26] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_3962$class_3964
-[11:19:26] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_3962$class_3925
-[11:19:26] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_4010
-[11:19:26] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_4097
-[11:19:26] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_6032
-[11:19:27] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_2248$class_2249
-[11:19:27] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_2674
-[11:19:27] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_2474
-[11:19:27] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_5817
-[11:19:27] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_6568
-[11:19:27] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_3492
-[11:19:27] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_6350$class_5832
-[11:19:27] [Worker-ResourceReload-0/INFO]: Force-loading class com.ishland.c2me.rewrites.chunk_serializer.common.ChunkDataSerializer
-[11:19:27] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_3471$class_3474
-[11:19:27] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_5579$class_5580
-[11:19:27] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_3471$class_3476
-[11:19:27] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_1950
-[11:19:27] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_6032$class_6033
-[11:19:28] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_3499
-[11:19:28] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_6640
-[11:19:28] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_4983
-[11:19:28] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_4103
-[11:19:28] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_3499$class_5162
-[11:19:28] [Worker-ResourceReload-0/INFO]: Force-loading class com.mojang.datafixers.types.templates.TaggedChoice
-[11:19:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2479ms or 49 ticks behind
-[11:19:28] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_4103$class_4104
-[11:19:28] [Worker-ResourceReload-0/WARN]: Cleared mixin data structures
-[11:19:37] [Server thread/INFO]: ArganisEHS[/127.172.181.126:51437] logged in with entity id 222 at (4.5, 105.0, -5.5)
-[11:19:38] [Server thread/INFO]: ArganisEHS joined the game
-[11:19:38] [Server thread/INFO]: Async chunk loading for player ArganisEHS completed
-[11:19:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4886ms or 97 ticks behind
-[11:19:51] [Server thread/INFO]: Set the time to 1000
-[11:20:53] [Server thread/INFO]: Teleported ArganisEHS to -822.500000, 10.000000, -856.500000
-[11:21:28] [Server thread/INFO]: ArganisEHS was shot by Skeleton
-[11:23:55] [Server thread/INFO]: Teleported ArganisEHS to -822.500000, 5.000000, -856.500000
-[11:24:45] [Server thread/INFO]: ArganisEHS was shot by Skeleton
-[11:24:57] [Server thread/INFO]: Teleported ArganisEHS to -822.500000, 5.000000, -856.500000
-[11:28:26] [Server thread/INFO]: Teleported ArganisEHS to 0.500000, 64.000000, 0.500000
-[11:28:33] [Server thread/INFO]: ArganisEHS suffocated in a wall
-[11:29:31] [Server thread/INFO]: Changed the block at 0, 64, 0
-[11:29:47] [Server thread/INFO]: Teleported ArganisEHS to 0.500000, 64.000000, 0.500000
-[11:30:16] [Server thread/INFO]: Unknown item 'minecraft:iron'
-[11:30:16] [Server thread/INFO]: ...rganisEHS iron 50<--[HERE]
-[11:30:26] [Server thread/INFO]: An entity is required to run this command here
-[11:30:37] [Server thread/INFO]: Teleported ArganisEHS to 0.500000, 104.000000, 0.500000
-[11:30:48] [Server thread/INFO]: ArganisEHS suffocated in a wall
-[11:30:58] [Server thread/INFO]: Set the time to 1000
-[11:31:42] [Server thread/INFO]: Gave 64 [Iron Ingot] to ArganisEHS
-[11:32:23] [Server thread/INFO]: [Server] Los dioses son buenos:)
-[11:32:46] [Server thread/INFO]: [Server] Los dioses aceptan sus errores :), disfrute su regalo
-[11:34:50] [Server thread/INFO]: Teleported 263 entities to ArganisEHS
-[11:34:50] [Server thread/INFO]: ArganisEHS was squashed by Zombie
-[11:34:53] [Server thread/INFO]: Lucky[/127.172.181.126:60637] logged in with entity id 4510 at (-268.9890768851445, 63.0, 558.3776937458894)
-[11:34:53] [Server thread/INFO]: Lucky joined the game
-[11:34:53] [Server thread/INFO]: Async chunk loading for player Lucky completed
-[11:35:12] [Server thread/INFO]: Gave 1 [Water Bucket] to ArganisEHS
-[11:37:40] [Server thread/INFO]: [Server] Los dioses son bondadosos
-[11:39:25] [Server thread/INFO]: Teleported ArganisEHS to Lucky
-[11:41:44] [Server thread/INFO]: <Lucky> djkfgdlkg
-[11:41:51] [Server thread/INFO]: ArganisEHS lost connection: Disconnected
-[11:41:51] [Server thread/INFO]: ArganisEHS left the game
-[11:41:53] [Server thread/INFO]: Teleported 183 entities to Lucky
-[11:42:03] [Server thread/INFO]: Lucky was blown up by Creeper
-[11:42:21] [Server thread/INFO]: ArganisEHS[/127.172.181.126:46107] logged in with entity id 6972 at (-19.409297994590094, 85.0, 497.41392824402493)
-[11:42:21] [Server thread/INFO]: ArganisEHS joined the game
-[11:42:21] [Server thread/INFO]: Async chunk loading for player ArganisEHS completed
-[11:42:49] [Server thread/INFO]: Gave 20 [Iron Ingot] to Lucky
-[11:43:19] [Server thread/INFO]: Unknown item 'minecraft:diamont'
-[11:43:19] [Server thread/INFO]: ...ive Lucky diamont 2<--[HERE]
-[11:43:33] [Server thread/INFO]: Unknown item 'minecraft:diamont_block'
-[11:43:33] [Server thread/INFO]: ...ive Lucky diamont_block<--[HERE]
-[11:44:32] [Server thread/INFO]: Lucky has made the advancement [Diamonds!]
-[11:44:32] [Server thread/INFO]: Gave 2 [Diamond] to Lucky
-[11:44:34] [Server thread/INFO]: Kirin1243[/127.172.181.126:43885] logged in with entity id 7773 at (-668.5, 67.0, -684.5)
-[11:44:34] [Server thread/INFO]: Kirin1243 joined the game
-[11:44:34] [Server thread/INFO]: Async chunk loading for player Kirin1243 completed
-[11:45:25] [Server thread/INFO]: Gave 3 [Diamond] to Lucky
-[11:45:48] [Server thread/INFO]: [Server] Los dioses quieren paz
-[11:45:52] [Server thread/INFO]: [Server] :)
-[11:46:06] [Server thread/INFO]: [Server] Amor y Paz
-[11:47:06] [Server thread/INFO]: <ArganisEHS> bolt armor
-[11:47:28] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
-[11:47:28] [Server thread/INFO]: ... diamond 2give ArganisEHS bolt_armor<--[HERE]
-[11:47:58] [Server thread/INFO]: Unknown item 'minecraft:bolt_armor'
-[11:47:58] [Server thread/INFO]: ...rganisEHS bolt_armor<--[HERE]
-[11:49:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-267, y=51, z=566} class_2338{x=-267, y=50, z=566}
-[11:49:12] [Server thread/INFO]: [Server] /kill mary
-[11:49:34] [Server thread/INFO]: <ArganisEHS> vex_armor_trim_smithing_template
-[11:49:58] [Server thread/INFO]: Gave 2 [Smithing Template] to ArganisEHS
-[11:51:41] [Server thread/INFO]: ArganisEHS has made the advancement [Crafting a New Look]
-[11:51:54] [Server thread/INFO]: [Server] Moustruo
-[11:52:00] [Server thread/INFO]: <ArganisEHS> como hago para que no se vea mi camiseta del avatar
-[11:52:15] [Server thread/INFO]: <Kirin1243> to facherito el men xd
-[11:53:31] [Server thread/INFO]: LordSasha96[/127.172.181.126:55717] logged in with entity id 10916 at (-30.30000001192093, 64.0, 497.69999998807907)
-[11:53:31] [Server thread/INFO]: LordSasha96 joined the game
-[11:53:31] [Server thread/INFO]: Async chunk loading for player LordSasha96 completed
-[11:54:09] [Server thread/INFO]: <Kirin1243> zz?
-[11:54:16] [Server thread/INFO]: <LordSasha96> que?
-[11:54:25] [Server thread/INFO]: <LordSasha96> duerman
-[11:54:36] [Server thread/INFO]: <LordSasha96> zzzzz
-[11:54:38] [Server thread/INFO]: <Kirin1243> se puede dormir o necesitais que sea de noche
-[11:54:44] [Server thread/INFO]: <LordSasha96> que sea de noche
-[11:54:47] [Server thread/INFO]: <LordSasha96> pero ya lo es no?
-[11:55:06] [Server thread/INFO]: <LordSasha96> dormit
-[11:59:26] [Server thread/INFO]: Kirin1243 lost connection: Disconnected
-[11:59:26] [Server thread/INFO]: Kirin1243 left the game
-[11:59:53] [Server thread/INFO]: Kirin1243[/127.172.181.126:35471] logged in with entity id 12268 at (-670.1271739706028, 67.0, -686.1690911331517)
-[11:59:53] [Server thread/INFO]: Kirin1243 joined the game
-[11:59:53] [Server thread/INFO]: Async chunk loading for player Kirin1243 completed
-[12:00:38] [Server thread/INFO]: Lucky was blown up by Creeper
-[12:00:44] [Server thread/INFO]: LordSasha96 lost connection: Disconnected
-[12:00:44] [Server thread/INFO]: LordSasha96 left the game
-[12:01:01] [Server thread/INFO]: Kirin1243 lost connection: Disconnected
-[12:01:01] [Server thread/INFO]: Kirin1243 left the game
-[12:02:21] [Server thread/INFO]: Kirin1243[/127.172.181.126:34205] logged in with entity id 13245 at (-679.4624657013402, 64.0, -723.6806858571554)
-[12:02:21] [Server thread/INFO]: Kirin1243 joined the game
-[12:02:21] [Server thread/INFO]: Async chunk loading for player Kirin1243 completed
-[12:02:52] [Server thread/INFO]: Teleported Lucky to -31.500000, 64.000000, 512.500000
-[12:03:34] [Server thread/INFO]: [Server] juro solemnemente que yo no fui
-[12:03:38] [Server thread/INFO]: [Server] :(
-[12:03:47] [Server thread/INFO]: [Server] hola
-[12:03:51] [Server thread/INFO]: <Kirin1243> hola
-[12:03:55] [Server thread/INFO]: <Lucky> mas te vale....se dodnde vives...
-[12:04:04] [Server thread/INFO]: [Server] ñoooooo, mi perro :(
-[12:04:05] [Server thread/INFO]: <Kirin1243> me estoy mundado
-[12:04:21] [Server thread/INFO]: Kirin1243 lost connection: Disconnected
-[12:04:21] [Server thread/INFO]: Kirin1243 left the game
-[12:05:10] [Server thread/INFO]: Kirin1243[/127.172.181.126:47679] logged in with entity id 14488 at (-722.0922392053909, 68.0, -887.0322857856032)
-[12:05:10] [Server thread/INFO]: Kirin1243 joined the game
-[12:05:10] [Server thread/INFO]: Async chunk loading for player Kirin1243 completed
-[12:07:54] [Server thread/INFO]: [Server] Los Dioses no perdonan los Falsos testimonios ni amenazas
-[12:08:17] [Server thread/INFO]: <Lucky> he salvado al peroo de alguien....
-[12:08:21] [Server thread/INFO]: [Server] 🤬
-[12:09:06] [Server thread/INFO]: [Server] alejate un poco y haz un agujero hacia abajo para que no destruyas nada
-[12:09:21] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[12:09:21] [Server thread/INFO]: to @e Lucky<--[HERE]
-[12:09:30] [Server thread/INFO]: Teleported 424 entities to Lucky
-[12:09:33] [Server thread/INFO]: Lucky was blown up by Creeper
-[12:09:34] [Server thread/INFO]: Villager class_1646['Farmer'/14511, l='ServerLevel[world]', x=-91.01, y=63.00, z=499.30] died, message: 'Farmer was blown up by Creeper'
-[12:09:37] [Server thread/INFO]: ArganisEHS was killed by Witch using magic
-[12:09:43] [Server thread/INFO]: Kirin1243 was blown up by Creeper
-[12:09:55] [Server thread/INFO]: <Kirin1243> xd
-[12:10:15] [Server thread/INFO]: [Server] a ti tambien te teletransporto?
-[12:10:37] [Server thread/INFO]: [Server] Los dioses se vana dormir, no más comandos
-[12:10:45] [Server thread/INFO]: <Kirin1243> dios me cago en lo muerto de tu estapa como te pille te voy a dar una ostia sagrada que voy a quitar el titulo de lo fuerte que te voy dar
-[12:10:54] [Server thread/INFO]: Teleported Lucky to -89.500000, 62.000000, 500.500000
-[12:10:56] [Server thread/INFO]: Lucky has made the advancement [Suit Up]
-[12:11:02] [Server thread/INFO]: Kirin1243 lost connection: Disconnected
-[12:11:02] [Server thread/INFO]: Kirin1243 left the game
-[12:11:05] [Server thread/INFO]: Lucky was slain by Elder Guardian
-[12:19:46] [Server thread/INFO]: Teleported Lucky to -84.500000, 62.000000, 495.500000
-[12:19:55] [Server thread/INFO]: Lucky was slain by Zombie
-[12:20:13] [Server thread/INFO]: Villager class_1646['Villager'/17937, l='ServerLevel[world]', x=-81.76, y=61.38, z=493.31] died, message: 'Villager was slain by Zombie'
-[12:20:32] [Server thread/INFO]: Set the time to 1000
-[12:20:51] [Server thread/INFO]: Villager class_1646['Villager'/18007, l='ServerLevel[world]', x=-73.80, y=62.51, z=524.84] died, message: 'Villager was slain by Drowned'
-[12:20:53] [Server thread/INFO]: Lucky was killed
-[12:20:53] [Server thread/INFO]: ArganisEHS was killed
-[12:20:53] [Server thread/INFO]: Villager class_1646['Villager'/17950, l='ServerLevel[world]', x=-94.35, y=68.00, z=438.71] died, message: 'Villager was killed'
-[12:20:53] [Server thread/INFO]: Villager class_1646['Weaponsmith'/18133, l='ServerLevel[world]', x=-79.31, y=62.51, z=547.20] died, message: 'Weaponsmith was killed'
-[12:20:53] [Server thread/INFO]: Villager class_1646['Villager'/18148, l='ServerLevel[world]', x=-106.70, y=69.42, z=434.67] died, message: 'Villager was killed'
-[12:20:53] [Server thread/INFO]: Villager class_1646['Mason'/18204, l='ServerLevel[world]', x=-107.10, y=62.51, z=535.70] died, message: 'Mason was killed'
-[12:20:53] [Server thread/INFO]: Villager class_1646['Villager'/18254, l='ServerLevel[world]', x=-147.51, y=80.00, z=450.94] died, message: 'Villager was killed'
-[12:20:53] [Server thread/INFO]: Killed 503 entities
-[12:21:19] [Server thread/INFO]: Only players may be affected by this command, but the provided selector includes entities
-[12:21:19] [Server thread/INFO]: give @e diamond 10<--[HERE]
-[12:21:43] [Server thread/INFO]: Gave 10 [Diamond] to Lucky
-[12:22:34] [Server thread/INFO]: Kirin1243[/127.172.181.126:56345] logged in with entity id 19478 at (-22.470154927439815, 110.0, 4.462219324123133)
-[12:22:34] [Server thread/INFO]: Kirin1243 joined the game
-[12:22:34] [Server thread/INFO]: Async chunk loading for player Kirin1243 completed
-[12:22:41] [Server thread/INFO]: Gave 10 [Diamond] to 3
-[12:22:56] [Server thread/INFO]: [Server] les he dado diamantes, perdon :(
-[12:23:18] [Server thread/INFO]: <Kirin1243> dame una espada y escudo al menos
-[12:23:24] [Server thread/INFO]: Gave 64 [Iron Ingot] to 3
-[12:23:45] [Server thread/INFO]: Unknown item 'minecraft:enchanted_apple'
-[12:23:45] [Server thread/INFO]: give @a enchanted_apple<--[HERE]
-[12:24:33] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[12:24:33] [Server thread/INFO]: dive @a golden_apple 3<--[HERE]
-[12:25:30] [Server thread/INFO]: Gave 5 [Golden Apple] to Kirin1243
-[12:26:14] [Server thread/INFO]: Gave 5 [Golden Apple] to 3
-[12:26:25] [Server thread/INFO]: <Kirin1243> como era el mapa
-[12:26:39] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[12:26:39] [Server thread/INFO]: y es un mod<--[HERE]
-[12:27:08] [Server thread/INFO]: You whisper to Kirin1243: es un mod
-[12:27:21] [Server thread/INFO]: You whisper to Kirin1243: se llama Xaeros minimap y xaeros worldmap
-[12:27:37] [Server thread/INFO]: Incorrect argument for command
-[12:27:37] [Server thread/INFO]: effect @a regeneration 10<--[HERE]
-[12:28:14] [Server thread/INFO]: Incorrect argument for command
-[12:28:14] [Server thread/INFO]: effect @a regeneration 1 20<--[HERE]
-[12:28:46] [Server thread/INFO]: Incorrect argument for command
-[12:28:46] [Server thread/INFO]: effect @e regeneration 3 30<--[HERE]
-[12:28:51] [Server thread/INFO]: Incorrect argument for command
-[12:28:51] [Server thread/INFO]: effect @e regeneration 3 30<--[HERE]
-[12:30:03] [Server thread/INFO]: Incorrect argument for command
-[12:30:03] [Server thread/INFO]: effect @e regeneration 2 30<--[HERE]
-[12:30:15] [Server thread/INFO]: Incorrect argument for command
-[12:30:15] [Server thread/INFO]: effect @a regeneration 2 30<--[HERE]
-[12:30:24] [Server thread/INFO]: Incorrect argument for command
-[12:30:24] [Server thread/INFO]: effect @p regeneration 2 30<--[HERE]
-[12:30:30] [Server thread/INFO]: Incorrect argument for command
-[12:30:30] [Server thread/INFO]: effect @p regeneration 2<--[HERE]
-[12:30:33] [Server thread/INFO]: Incorrect argument for command
-[12:30:33] [Server thread/INFO]: effect @p regeneration<--[HERE]
-[12:30:50] [Server thread/INFO]: Unknown item 'minecraft:enchanted_apple'
-[12:30:50] [Server thread/INFO]: give @a enchanted_apple 2<--[HERE]
-[12:30:57] [Server thread/INFO]: <Kirin1243> teneis redstone
-[12:31:09] [Server thread/INFO]: <ArganisEHS> si tengo
-[12:31:22] [Server thread/INFO]: <Kirin1243> me das 1
-[12:31:33] [Server thread/INFO]: <ArganisEHS> creo que estas un poco lejos xD
-[12:31:45] [Server thread/INFO]: <Kirin1243> estoy en tu puerta
-[12:32:17] [Server thread/INFO]: Gave 128 [Redstone Dust] to 3
-[12:32:28] [Server thread/INFO]: <ArganisEHS> te ha dado el servidor xD
-[12:32:30] [Server thread/INFO]: [Server] Sorry :(
-[12:32:40] [Server thread/INFO]: <Kirin1243> ADMIN ERES UN BESTIA DANDO MERCANCIA
-[12:32:50] [Server thread/INFO]: [Server] jajajaja
-[12:32:54] [Server thread/INFO]: <ArganisEHS> drojaaaaaaaaaaaaaaa
-[12:33:12] [Server thread/INFO]: Unknown item 'minecraft:oak_leave'
-[12:33:12] [Server thread/INFO]: give @a oak_leave 5<--[HERE]
-[12:33:36] [Server thread/INFO]: Gave 5 [Oak Leaves] to 3
-[12:33:44] [Server thread/INFO]: [Server] ahi tienen la hierba
-[12:33:47] [Server thread/INFO]: [Server] :)
-[12:34:09] [Server thread/INFO]: <Kirin1243> me falta el mechero
-[12:34:23] [Server thread/INFO]: Gave 5 [Ender Pearl] to 3
-[12:35:01] [Server thread/INFO]: [Server] /summon maldad
-[12:35:48] [Server thread/INFO]: ArganisEHS has made the advancement [Ice Bucket Challenge]
-[12:35:48] [Server thread/INFO]: Lucky has made the advancement [Ice Bucket Challenge]
-[12:35:48] [Server thread/INFO]: Kirin1243 has made the advancement [Ice Bucket Challenge]
-[12:35:48] [Server thread/INFO]: Gave 5 [Obsidian] to 3
-[12:35:58] [Server thread/INFO]: <Lucky> me habeis robado la cama....
-[12:36:03] [Server thread/INFO]: [Server] Sorry :)
-[12:36:18] [Server thread/INFO]: <Kirin1243> admin time set day
-[12:36:23] [Server thread/INFO]: [Server] /kill Mary
-[12:36:35] [Server thread/INFO]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
-[12:36:35] [Server thread/INFO]: Search succeeded: 3406 radius, 4631 samples
-[12:36:37] [Server thread/INFO]: Unknown item 'minecraft:bed'
-[12:36:37] [Server thread/INFO]: ...ive Lucky bed<--[HERE]
-[12:36:49] [Server thread/INFO]: Gave 1 [Red Bed] to Lucky
-[12:37:13] [Server thread/INFO]: Lucky was killed
-[12:37:13] [Server thread/INFO]: Killed Lucky
-[12:37:19] [Server thread/INFO]: [Server] por quejarte
-[12:37:22] [Server thread/INFO]: <Kirin1243> bueno pareja has estado bien la visita me voy a buscar la tierra prometida
-[12:38:09] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[12:38:09] [Server thread/INFO]: exp @a give 100<--[HERE]
-[12:38:19] [Server thread/INFO]: Incorrect argument for command
-[12:38:19] [Server thread/INFO]: xp @a give 100<--[HERE]
-[12:38:50] [Server thread/INFO]: Gave 100 experience points to 3 players
-[12:39:02] [Server thread/INFO]: Gave 500 experience points to 3 players
-[12:39:10] [Server thread/INFO]: [Server] Sorry :(
-[12:39:16] [Server thread/INFO]: [Server] Amor y Paz
-[12:39:26] [Server thread/INFO]: <Kirin1243> esta perdonado de momento
-[12:39:30] [Server thread/INFO]: ArganisEHS has made the advancement [Enchanter]
-[12:39:39] [Server thread/INFO]: [Server] Sorry
-[12:40:24] [Server thread/INFO]: Unknown item 'minecraft:villager_egg'
-[12:40:24] [Server thread/INFO]: give @a villager_egg 5<--[HERE]
-[12:40:51] [Server thread/INFO]: Gave 5 [Villager Spawn Egg] to 3
-[12:41:14] [Server thread/INFO]: [Server] los huevos son porque con todo lo que ha pasado los aldeanos tambien pasaron a mejor vida
-[12:41:43] [Server thread/INFO]: [Server] Sorry
-[12:42:09] [Server thread/INFO]: Gave 300 experience points to 3 players
-[12:43:24] [Server thread/INFO]: Kirin1243 lost connection: Disconnected
-[12:43:24] [Server thread/INFO]: Kirin1243 left the game
-[12:48:53] [Server thread/INFO]: ArganisEHS lost connection: Disconnected
-[12:48:53] [Server thread/INFO]: ArganisEHS left the game
-[12:48:59] [Server thread/INFO]: Lucky lost connection: Disconnected
-[12:48:59] [Server thread/INFO]: Lucky left the game
-[12:56:25] [Server thread/INFO]: Kirin1243[/127.172.181.126:55175] logged in with entity id 28914 at (-598.5311359772293, 63.0, 2047.395117245337)
-[12:56:25] [Server thread/INFO]: Kirin1243 joined the game
-[12:56:25] [Server thread/INFO]: Async chunk loading for player Kirin1243 completed
-[12:58:44] [Server thread/INFO]: Lucky[/127.172.181.126:41205] logged in with entity id 29517 at (87.95723809078643, 58.0, 516.2286436356028)
-[12:58:44] [Server thread/INFO]: Lucky joined the game
-[12:58:44] [Server thread/INFO]: Async chunk loading for player Lucky completed
-[12:59:25] [Server thread/INFO]: [Server] contador de muerte Mary muchas Victor muchas, muchas son mi culpa, sorry :(kjkjkj
-[12:59:45] [Server thread/INFO]: [Server] contador de muerte Mary muchas Victor muchas, muchas son mi culpa, sorry :(
-[12:59:57] [Server thread/INFO]: There are 2 of a max of 20 players online: Kirin1243, Lucky
-[13:00:27] [pool-11-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos class_2338{x=-837, y=72, z=2155}
-[13:02:19] [pool-11-thread-2/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna]] from pos class_2338{x=-885, y=74, z=2539}
-[13:02:21] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-885, y=74, z=2539} but found not block entity block Block{minecraft:air} at location
-[13:02:21] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:air} but failed at location class_2338{x=-885, y=74, z=2539}
-[13:03:55] [pool-11-thread-3/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos class_2338{x=-1189, y=71, z=2773}
-[13:03:56] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-1189, y=71, z=2773} but found not block entity block Block{minecraft:air} at location
-[13:03:56] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:air} but failed at location class_2338{x=-1189, y=71, z=2773}
-[13:05:25] [Server thread/INFO]: Garridolm[/127.172.181.126:56195] logged in with entity id 33713 at (-158.30000001192093, 25.0, 347.30000001192093)
-[13:05:25] [Server thread/INFO]: Garridolm joined the game
-[13:05:25] [Server thread/INFO]: Async chunk loading for player Garridolm completed
-[13:06:32] [pool-11-thread-4/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains]] from pos class_2338{x=-1157, y=76, z=3397}
-[13:06:32] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-1158, y=76, z=3397} but found not block entity block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] at location
-[13:06:32] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] but failed at location class_2338{x=-1158, y=76, z=3397}
-[13:06:32] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-1157, y=76, z=3397} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=true] at location
-[13:06:32] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=true] but failed at location class_2338{x=-1157, y=76, z=3397}
-[13:06:32] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-1158, y=75, z=3397} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
-[13:06:32] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location class_2338{x=-1158, y=75, z=3397}
-[13:07:16] [Server thread/INFO]: Lucky was blown up by Creeper
-[13:08:14] [Server thread/INFO]: Garridolm drowned
-[13:12:42] [Server thread/INFO]: Garridolm lost connection: Disconnected
-[13:12:42] [Server thread/INFO]: Garridolm left the game
-[13:13:36] [Server thread/INFO]: There are 2 of a max of 20 players online: Kirin1243, Lucky
-[13:13:49] [Server thread/INFO]: [Server] juro solemnemente que mis intenciones no son buenas
-[13:13:53] [Server thread/INFO]: [Server] jajajajaja
-[13:14:51] [Server thread/INFO]: Teleported Lucky to 0.000000, 123.000000, 0.000000
-[13:15:21] [Server thread/INFO]: Teleported Lucky to -23.500000, 87.000000, 494.500000
-[13:15:24] [Server thread/INFO]: Garridolm[/127.172.181.126:40255] logged in with entity id 40091 at (-54.690187626313694, 102.0, 22.34275563289783)
-[13:15:24] [Server thread/INFO]: Garridolm joined the game
-[13:15:24] [Server thread/INFO]: Async chunk loading for player Garridolm completed
-[13:15:46] [Server thread/INFO]: Gave 1 [Golden Apple] to Lucky
-[13:16:55] [Server thread/INFO]: Garridolm lost connection: Disconnected
-[13:16:55] [Server thread/INFO]: Garridolm left the game
-[13:18:29] [Server thread/INFO]: Kirin1243 lost connection: Disconnected
-[13:18:29] [Server thread/INFO]: Kirin1243 left the game
+[11:45:17] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Lord-lab4/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[11:45:17] [main/INFO]: Compatibility level set to JAVA_17
+[11:45:18] [main/INFO]: Initializing com.ishland.c2me.base.mixin
+[11:45:18] [main/INFO]: Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
+[11:45:18] [main/INFO]: Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
+[11:45:18] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
+[11:45:18] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
+[11:45:18] [main/INFO]: Initializing com.ishland.c2me.notickvd.mixin
+[11:45:18] [main/INFO]: Initializing com.ishland.c2me.opts.allocs.mixin
+[11:45:18] [main/INFO]: Initializing com.ishland.c2me.opts.chunk_access.mixin
+[11:45:18] [main/INFO]: Initializing com.ishland.c2me.opts.chunkio.mixin
+[11:45:18] [main/INFO]: Initializing com.ishland.c2me.opts.math.mixin
+[11:45:18] [main/INFO]: Initializing com.ishland.c2me.opts.scheduling.mixin
+[11:45:18] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.general.mixin
+[11:45:18] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
+[11:45:18] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunk_serializer.mixin
+[11:45:18] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunkio.mixin
+[11:45:18] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunkio.mixin
+[11:45:18] [main/INFO]: Initializing com.ishland.c2me.server.utils.mixin
+[11:45:18] [main/INFO]: Initializing com.ishland.c2me.threading.chunkio.mixin
+[11:45:18] [main/INFO]: Initializing com.ishland.c2me.threading.lighting.mixin
+[11:45:18] [main/INFO]: Initializing com.ishland.c2me.threading.worldgen.mixin
+[11:45:18] [main/INFO]: Loaded configuration file for Lithium: 115 options available, 3 override(s) found
+[11:45:18] [main/INFO]: Loaded configuration file for ModernFix 5.19.4+mc1.20.1: 61 options available, 13 override(s) found
+[11:45:18] [main/WARN]: Option 'mixin.bugfix.paper_chunk_patches' overriden (by mods [c2me]) to 'false'
+[11:45:18] [main/WARN]: Option 'mixin.perf.faster_item_rendering' overriden (by user configuration) to 'true'
+[11:45:18] [main/WARN]: Option 'mixin.perf.dynamic_resources' overriden (by user configuration) to 'true'
+[11:45:18] [main/WARN]: Option 'mixin.perf.cache_strongholds' overriden (by mods [c2me]) to 'false'
+[11:45:18] [main/WARN]: Option 'mixin.perf.clear_mixin_classinfo' overriden (by user configuration) to 'true'
+[11:45:18] [main/WARN]: Option 'mixin.perf.deduplicate_location' overriden (by user configuration) to 'true'
+[11:45:18] [main/WARN]: Option 'mixin.perf.dynamic_entity_renderers' overriden (by user configuration) to 'true'
+[11:45:18] [main/WARN]: Option 'mixin.perf.nbt_memory_usage' overriden (by mods [c2me]) to 'false'
+[11:45:18] [main/WARN]: Option 'mixin.perf.clear_fabric_mapping_tables' overriden (by user configuration) to 'true'
+[11:45:18] [main/WARN]: Option 'mixin.bugfix.packet_leak' overriden (by user configuration) to 'true'
+[11:45:18] [main/WARN]: Option 'mixin.bugfix.chunk_deadlock' overriden (by mods [c2me]) to 'false'
+[11:45:18] [main/WARN]: Option 'mixin.perf.worldgen_allocation' overriden (by user configuration) to 'true'
+[11:45:18] [main/WARN]: Option 'mixin.perf.thread_priorities' overriden (by mods [threadtweak]) to 'false'
+[11:45:18] [main/INFO]: Applying Nashorn fix
+[11:45:19] [main/INFO]: Successfully started async appender with [ServerGuiConsole, SysOut, File]
+[11:45:19] [main/WARN]: Error loading class: ca/spottedleaf/starlight/common/light/SWMRNibbleArray$SaveState (java.lang.ClassNotFoundException: ca/spottedleaf/starlight/common/light/SWMRNibbleArray$SaveState)
+[11:45:19] [main/WARN]: Mixin malte0811.ferritecore.mixin.threaddetec.PalettedContainerMixin is disabled automatically as lithium is installed
+[11:45:19] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[11:45:19] [main/WARN]: Force-disabling mixin 'block.moving_block_shapes.PistonBlockEntityMixin' as rule 'mixin.block.moving_block_shapes' (added by mods [supplementaries]) disables it and children
+[11:45:19] [main/WARN]: Force-disabling mixin 'block.moving_block_shapes.VoxelShapeMixin' as rule 'mixin.block.moving_block_shapes' (added by mods [supplementaries]) disables it and children
+[11:45:19] [main/WARN]: Force-disabling mixin 'world.player_chunk_tick.ThreadedAnvilChunkStorageMixin' as rule 'mixin.world.player_chunk_tick' (added by mods [c2me, vmp]) disables it and children
+[11:45:20] [main/WARN]: Error loading class: vectorwing/farmersdelight/common/block/TomatoVineBlock (java.lang.ClassNotFoundException: vectorwing/farmersdelight/common/block/TomatoVineBlock)
+[11:45:20] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer)
+[11:45:20] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[11:45:20] [main/INFO]: ThreadTweak config initialized
+[11:45:21] [main/INFO]: Mixing common.MixinFriendlyByteBuf from mixins/common/nochatreports.mixins.json into net.minecraft.class_2540
+[11:45:21] [main/INFO]: Renaming synthetic method lambda$onWriteJsonWithCodec$1(Ljava/lang/Object;Ljava/lang/String;)Lio/netty/handler/codec/EncoderException; to md7fda5b$nochatreports$lambda$onWriteJsonWithCodec$1$0 in mixins/common/nochatreports.mixins.json:common.MixinFriendlyByteBuf from mod nochatreports
+[11:45:21] [main/INFO]: Renaming synthetic method lambda$onReadJsonWithCodec$0(Ljava/lang/String;)Lio/netty/handler/codec/DecoderException; to md7fda5b$nochatreports$lambda$onReadJsonWithCodec$0$1 in mixins/common/nochatreports.mixins.json:common.MixinFriendlyByteBuf from mod nochatreports
+[11:45:23] [main/INFO]: Injecting BlockStateBase cache population hook into getNeighborPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[11:45:23] [main/INFO]: Injecting BlockStateBase cache population hook into getPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[11:45:23] [main/INFO]: Injecting BlockStateBase cache population hook into getAllFlags from me.jellysquid.mods.lithium.mixin.util.block_tracking.AbstractBlockStateMixin
+[11:45:25] [main/INFO]: Mixing server.MixinServerGamePacketListenerImpl from mixins/common/nochatreports.mixins.json into net.minecraft.class_3244
+[11:45:27] [main/WARN]: Method overwrite conflict for method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by me.jellysquid.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
+[11:45:27] [main/INFO]: Vanilla bootstrap took 6052 milliseconds
+[11:45:27] [main/INFO]: Loaded config amendments-common.json
+[11:45:28] [main/INFO]: KONNICHIWA ZA WARUDO!
+[11:45:28] [main/INFO]: Default JVM text encoding is: UTF-8
+[11:45:28] [main/INFO]: Reading config file NoChatReports/NCR-Common.json...
+[11:45:28] [main/INFO]: Writing config file NoChatReports/NCR-Common.json...
+[11:45:28] [main/INFO]: Loading Noisium.
+[11:45:28] [main/INFO]: Loaded config supplementaries-common.json
+[11:45:29] [main/INFO]: Mixing server.MixinServerboundChatSessionUpdatePacket from mixins/common/nochatreports.mixins.json into net.minecraft.class_7861
+[11:45:29] [main/INFO]: Mixing server.MixinServerboundChatCommandPacket from mixins/common/nochatreports.mixins.json into net.minecraft.class_7472
+[11:45:29] [main/INFO]: Mixing server.MixinServerboundChatPacket from mixins/common/nochatreports.mixins.json into net.minecraft.class_2797
+[11:45:30] [main/INFO]: Initialized block sets in 25ms
+[11:45:30] [main/INFO]: Loaded config moonlight-common.json
+[11:45:30] [main/INFO]: Initialized color sets in 70ms
+[11:45:30] [main/INFO]: Finished mod setup in: [0, 1, 0, 7, 0, 0, 20, 4, 0] ms
+[11:45:30] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[11:45:30] [main/INFO]: Bypassed Mojang DFU
+[11:45:31] [main/INFO]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 55 ms
+[11:45:31] [main/INFO]: Generated runtime SERVER_DATA for pack Suppsquared Generated Pack (suppsquared) in: 39 ms
+[11:45:31] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[11:45:32] [Worker-Main-2/ERROR]: Couldn't load tag supplementaries:lunch_basket_blacklist as it is missing following references: potionbundles:potion_bundle (from fabric)
+[11:45:33] [main/INFO]: Loaded 7 recipes
+[11:45:33] [main/ERROR]: Parsing error loading custom advancement supplementaries:recipes/planter_rich: Unknown item id 'farmersdelight:rich_soil'
+[11:45:33] [main/ERROR]: Parsing error loading custom advancement explorerscompass:explorers_compass_cracked_stone_bricks: Expected items to be a JsonArray, was "min...ks"
+[11:45:33] [main/ERROR]: Parsing error loading custom advancement naturescompass:natures_compass: Expected items to be a JsonArray, was "min...ss"
+[11:45:33] [main/ERROR]: Parsing error loading custom advancement explorerscompass:explorers_compass_cobweb: Expected items to be a JsonArray, was "min...eb"
+[11:45:33] [main/ERROR]: Parsing error loading custom advancement explorerscompass:explorers_compass: Expected items to be a JsonArray, was "min...ss"
+[11:45:33] [main/INFO]: Loaded 1474 advancements
+[11:45:33] [main/INFO]: Loaded 27 flute songs
+[11:45:33] [main/INFO]: Applied 7 data villager trades
+[11:45:33] [main/INFO]: Finished additional setup in 0 ms
+[11:45:33] [main/INFO]: Mixing server.MixinDedicatedServer from mixins/common/nochatreports.mixins.json into net.minecraft.class_3176
+[11:45:33] [main/INFO]: Mixing server.MixinPlayerList from mixins/common/nochatreports.mixins.json into net.minecraft.class_3324
+[11:45:34] [main/INFO]: Applied 107 biome modifications to 54 of 64 new biomes in 22.60 ms
+[11:45:34] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[11:45:34] [Server thread/INFO]: Loading properties
+[11:45:34] [Server thread/INFO]: Default game type: SURVIVAL
+[11:45:34] [Server thread/INFO]: Generating keypair
+[11:45:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:45:34] [Server thread/INFO]: Using epoll channel type
+[11:45:34] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:45:34] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:45:34] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:45:34] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:45:34] [Server thread/INFO]: Preparing level "world"
+[11:45:34] [Server thread/INFO]: Enforcing safe world random access
+[11:45:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:45:41] [C2ME worker #1/INFO]: Preparing spawn area: 0%
+[11:45:41] [C2ME worker #1/INFO]: Preparing spawn area: 0%
+[11:45:42] [C2ME worker #1/INFO]: Preparing spawn area: 3%
+[11:45:42] [C2ME worker #1/INFO]: Preparing spawn area: 11%
+[11:45:43] [C2ME worker #1/INFO]: Preparing spawn area: 22%
+[11:45:43] [minecraft_overworld - Light/INFO]: Preparing spawn area: 36%
+[11:45:44] [minecraft_overworld - Light/INFO]: Preparing spawn area: 50%
+[11:45:44] [minecraft_overworld - Light/INFO]: Preparing spawn area: 74%
+[11:45:45] [C2ME worker #1/INFO]: Preparing spawn area: 90%
+[11:45:45] [Server thread/INFO]: Time elapsed: 4494 ms
+[11:45:45] [Server thread/INFO]: Done (10.923s)! For help, type "help"
+[11:45:45] [Server thread/WARN]: Dedicated server took 31.212 seconds to load
+[11:45:45] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_7788
+[11:45:45] [Worker-ResourceReload-0/INFO]: Force-loading class com.ishland.c2me.notickvd.common.NoTickChunkSendingInterceptor
+[11:45:45] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_5361
+[11:45:45] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_4590
+[11:45:45] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_22$class_23
+[11:45:45] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_6350$class_6351
+[11:45:45] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_6686$class_6694
+[11:45:45] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_3304
+[11:45:45] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_3421
+[11:45:45] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_2926
+[11:45:45] [Worker-ResourceReload-0/INFO]: Mixing common.MixinServerStatus from mixins/common/nochatreports.mixins.json into net.minecraft.class_2926
+[11:45:45] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_2405
+[11:45:45] [Worker-ResourceReload-0/INFO]: Force-loading class com.mojang.datafixers.types.templates.TaggedChoice$TaggedChoiceType
+[11:45:45] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_3231
+[11:45:45] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_5454
+[11:45:45] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_4243
+[11:45:45] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_6746
+[11:45:45] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_6306
+[11:45:45] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_6
+[11:45:45] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_3131$class_3132
+[11:45:45] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_3244$1
+[11:45:45] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_6748
+[11:45:45] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_3366$class_3388
+[11:45:45] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_6749
+[11:45:45] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_6540$class_6541
+[11:45:45] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_6582
+[11:45:45] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_2985
+[11:45:46] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_2545
+[11:45:46] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_1258
+[11:45:46] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_6540
+[11:45:46] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_3233
+[11:45:46] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_4246
+[11:45:46] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_3390$class_3404
+[11:45:46] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_3962$class_3963
+[11:45:46] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_3509
+[11:45:46] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_4916
+[11:45:46] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_3962$class_3964
+[11:45:46] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_3962$class_3925
+[11:45:46] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_4010
+[11:45:46] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_4097
+[11:45:46] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_6032
+[11:45:46] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_2248$class_2249
+[11:45:46] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_2674
+[11:45:46] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_2474
+[11:45:46] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_5817
+[11:45:46] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_6568
+[11:45:46] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_3492
+[11:45:46] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_6350$class_5832
+[11:45:46] [Worker-ResourceReload-0/INFO]: Force-loading class com.ishland.c2me.rewrites.chunk_serializer.common.ChunkDataSerializer
+[11:45:46] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_3471$class_3474
+[11:45:46] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_5579$class_5580
+[11:45:46] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_3471$class_3476
+[11:45:46] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_1950
+[11:45:46] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_6032$class_6033
+[11:45:46] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_3499
+[11:45:46] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_6640
+[11:45:46] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_4983
+[11:45:46] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_4103
+[11:45:46] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_3499$class_5162
+[11:45:46] [Worker-ResourceReload-0/INFO]: Force-loading class com.mojang.datafixers.types.templates.TaggedChoice
+[11:45:46] [Worker-ResourceReload-0/INFO]: Force-loading class net.minecraft.class_4103$class_4104
+[11:45:46] [Worker-ResourceReload-0/WARN]: Cleared mixin data structures

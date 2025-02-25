@@ -2800,15 +2800,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-02-21 11:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2025-02-21 11:49:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
     "criteria": {
       "armor_trimmed_minecraft:vex_armor_trim_smithing_template_smithing_trim": "2025-02-21 11:51:41 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/misc/black_dye": {
+  "minecraft:adventure/trim_with_any_armor_pattern": {
     "criteria": {
-      "has_ink_sac": "2025-02-21 12:25:59 +0000"
+      "armor_trimmed_minecraft:vex_armor_trim_smithing_template_smithing_trim": "2025-02-21 11:51:41 +0000"
     },
     "done": true
   },
@@ -2818,45 +2830,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2025-02-21 12:21:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-02-21 12:09:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_obsidian": "2025-02-21 12:35:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-02-21 11:49:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-02-21 12:35:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2025-02-21 12:39:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2025-02-21 12:09:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-02-21 12:09:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-02-21 12:09:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-02-21 12:21:47 +0000"
     },
     "done": true
   },
@@ -2878,9 +2878,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod": {
+  "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
-      "has_cod": "2025-02-21 12:09:34 +0000"
+      "has_enchanted_golden_apple": "2025-02-21 12:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-02-21 12:25:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-02-21 12:35:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-02-21 12:35:48 +0000"
     },
     "done": true
   },
@@ -2890,27 +2908,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/trim_with_any_armor_pattern": {
+  "minecraft:story/enchant_item": {
     "criteria": {
-      "armor_trimmed_minecraft:vex_armor_trim_smithing_template_smithing_trim": "2025-02-21 11:51:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
-    "criteria": {
-      "has_vex_armor_trim_smithing_template": "2025-02-21 11:49:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
-    "criteria": {
-      "has_enchanted_golden_apple": "2025-02-21 12:21:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bone_block": {
-    "criteria": {
-      "has_bone_meal": "2025-02-21 12:09:34 +0000"
+      "enchanted_item": "2025-02-21 12:39:30 +0000"
     },
     "done": true
   },
