@@ -328,3 +328,22 @@
 [07:46:33] [Server thread/INFO]: <Kirin1243> vamos de tranquis
 [07:46:48] [Server thread/INFO]: [Server] HOY NO HAY COMANDOS :)
 [07:47:00] [Server thread/INFO]: <Kirin1243> asi me gusta
+[07:49:48] [Server thread/INFO]: Lucky lost connection: Disconnected
+[07:49:48] [Server thread/INFO]: Lucky left the game
+[07:49:48] [Server thread/WARN]: handleDisconnection() called twice
+[07:50:01] [Server thread/INFO]: Lucky[/127.172.181.126:46315] logged in with entity id 2279 at (-73.61285463409898, 64.0, 506.96119491691667)
+[07:50:01] [Server thread/INFO]: Lucky joined the game
+[07:50:01] [Server thread/INFO]: Async chunk loading for player Lucky completed
+[07:52:12] [Server thread/INFO]: ArganisEHS lost connection: Timed out
+[07:52:12] [Server thread/INFO]: ArganisEHS left the game
+[07:52:26] [Server thread/INFO]: ArganisEHS[/127.172.181.126:54439] logged in with entity id 3249 at (-23.618140499315224, 86.0, 503.15617552764485)
+[07:52:26] [Server thread/INFO]: ArganisEHS joined the game
+[07:52:26] [Server thread/INFO]: Async chunk loading for player ArganisEHS completed
+[07:52:56] [Server thread/INFO]: ArganisEHS lost connection: Timed out
+[07:52:56] [Server thread/INFO]: ArganisEHS left the game
+[07:56:46] [Server thread/INFO]: ArganisEHS[/127.172.181.126:43773] logged in with entity id 4987 at (-23.618140499315224, 86.0, 503.15617552764485)
+[07:56:46] [Server thread/INFO]: ArganisEHS joined the game
+[07:56:46] [Server thread/INFO]: Async chunk loading for player ArganisEHS completed
+[07:56:48] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[07:56:48] [Server thread/INFO]: say, hace falta yunque para renombrar la etiqueta<--[HERE]
+[07:56:59] [Server thread/INFO]: [Server] hace falta el yunque para renombrar la etiqueta
