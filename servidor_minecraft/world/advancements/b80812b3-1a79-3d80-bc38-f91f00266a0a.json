@@ -1193,6 +1193,7 @@
     "criteria": {
       "minecraft:pillager": "2025-02-19 12:32:44 +0000",
       "minecraft:skeleton": "2025-02-19 13:08:23 +0000",
+      "minecraft:magma_cube": "2025-02-27 08:18:47 +0000",
       "minecraft:spider": "2025-02-19 13:07:55 +0000",
       "minecraft:creeper": "2025-02-19 12:55:55 +0000",
       "minecraft:zombie": "2025-02-19 12:50:55 +0000"
@@ -2105,6 +2106,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-02-27 08:18:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-02-27 08:01:51 +0000"
@@ -2141,9 +2148,22 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2025-02-27 08:17:05 +0000",
+      "minecraft:basalt_deltas": "2025-02-27 08:18:56 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-02-27 08:11:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-02-27 08:17:00 +0000"
     },
     "done": true
   },
@@ -2171,6 +2191,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-02-27 08:17:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-02-27 08:11:59 +0000"
@@ -2183,6 +2209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-02-27 08:21:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-02-27 08:11:59 +0000"
@@ -2192,6 +2224,12 @@
   "supplementaries:recipes/flint_block": {
     "criteria": {
       "has_flint": "2025-02-27 08:15:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-02-27 08:21:38 +0000"
     },
     "done": true
   },
@@ -2210,6 +2248,12 @@
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-02-27 08:11:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-02-27 08:24:11 +0000"
     },
     "done": true
   },

@@ -368,3 +368,15 @@
 [08:17:00] [Server thread/INFO]: Kirin1243 has made the advancement [We Need to Go Deeper]
 [08:17:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6098ms or 121 ticks behind
 [08:18:47] [Server thread/INFO]: [Server] un mod para poder talar los arboles solo talando el primer bloque?
+[08:20:19] [Server thread/INFO]: [Server] agrego el better nether y el better end?, o asi estan bien esos biomas
+[08:20:30] [Server thread/INFO]: <ArganisEHS> OK
+[08:23:58] [Server thread/INFO]: [Server] hay un mod para reclamar chunks como tuyos, es decir que nadie pueda colorcar o quitar bloques en un chunk que hayas reclamado, pero si podra entrar
+[08:24:05] [Server thread/INFO]: There are 3 of a max of 20 players online: Kirin1243, Lucky, ArganisEHS
+[08:24:22] [Server thread/INFO]: <Lucky> yess
+[08:28:24] [Server thread/INFO]: Can't find element 'minecraft:' of type 'minecraft:entity_type'
+[08:29:06] [Server thread/INFO]: Unknown item 'minecraft:spawn_egg'
+[08:29:06] [Server thread/INFO]: give @a spawn_egg 5<--[HERE]
+[08:29:21] [Server thread/INFO]: Incomplete (expected 3 coordinates)
+[08:29:21] [Server thread/INFO]: ...ummon cow 5<--[HERE]
+[08:29:33] [Server thread/INFO]: Incomplete (expected 3 coordinates)
+[08:29:33] [Server thread/INFO]: ...mon sheep 5<--[HERE]
