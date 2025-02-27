@@ -385,3 +385,9 @@
 [08:37:50] [Server thread/INFO]: <Lucky> siiip
 [08:40:27] [Server thread/INFO]: Kirin1243 lost connection: Disconnected
 [08:40:27] [Server thread/INFO]: Kirin1243 left the game
+[08:42:18] [Server thread/INFO]: Can't find element 'minecraft:efficience' of type 'minecraft:enchantment'
+[08:45:10] [Server thread/INFO]: Applied enchantment Efficiency III to Lucky's item
+[08:47:22] [Server thread/INFO]: Lucky lost connection: Timed out
+[08:47:22] [Server thread/INFO]: Lucky left the game
+[08:47:22] [Server thread/INFO]: ArganisEHS lost connection: Timed out
+[08:47:22] [Server thread/INFO]: ArganisEHS left the game
