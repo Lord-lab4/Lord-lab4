@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:deep_ocean": "2025-02-21 08:04:57 +0000",
+      "minecraft:sunflower_plains": "2025-02-27 13:21:55 +0000",
       "minecraft:birch_forest": "2025-02-27 13:11:51 +0000",
       "minecraft:beach": "2025-02-13 12:23:49 +0000",
       "minecraft:dark_forest": "2025-02-27 13:12:00 +0000",
@@ -2971,15 +2972,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_slab": {
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
     "criteria": {
-      "has_planks": "2025-02-27 13:15:35 +0000"
+      "has_lily_of_the_valley": "2025-02-27 13:05:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-02-27 13:12:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-02-27 13:12:10 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2025-02-27 13:12:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-02-27 13:12:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-02-27 13:15:35 +0000"
     },
     "done": true
   },
@@ -3007,24 +3032,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
-    "criteria": {
-      "has_lily_of_the_valley": "2025-02-27 13:05:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2025-02-27 13:12:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_red_mushroom": "2025-02-27 13:12:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-02-27 13:15:35 +0000"
@@ -3040,12 +3047,6 @@
   "suppsquared:recipes/decorations/item_shelf_dark_oak": {
     "criteria": {
       "has_item": "2025-02-27 13:15:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_red_mushroom": "2025-02-27 13:12:10 +0000"
     },
     "done": true
   },
@@ -3070,6 +3071,12 @@
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2025-02-27 13:15:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-02-27 13:21:57 +0000"
     },
     "done": true
   },
