@@ -2808,5 +2808,11 @@
     },
     "done": true
   },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-03-11 12:22:02 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
