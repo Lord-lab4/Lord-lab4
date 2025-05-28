@@ -359,3 +359,4 @@
 [11:40:31] [Server thread/INFO]: ArganisEHS joined the game
 [11:40:31] [Server thread/INFO]: Async chunk loading for player ArganisEHS completed
 [11:42:49] [Server thread/INFO]: Set the time to 1000
+[11:53:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-161, y=80, z=446} class_2338{x=-161, y=78, z=446}
