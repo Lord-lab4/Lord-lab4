@@ -322,3 +322,16 @@
 [10:41:36] [Server thread/INFO]: [Server] hola
 [10:41:48] [Server thread/INFO]: [Server] Mary dice Me da amsiedad
 [10:42:06] [Server thread/INFO]: [Server] 🤣
+[10:45:42] [Server thread/INFO]: LordSasha96 lost connection: Timed out
+[10:45:42] [Server thread/INFO]: LordSasha96 left the game
+[10:45:42] [Server thread/WARN]: handleDisconnection() called twice
+[10:45:55] [Server thread/INFO]: LordSasha96[/127.1.237.28:51457] logged in with entity id 6438 at (-160.11691641120532, 79.9375, 428.1117648031669)
+[10:45:55] [Server thread/INFO]: LordSasha96 joined the game
+[10:45:56] [Server thread/INFO]: Async chunk loading for player LordSasha96 completed
+[10:49:25] [Server thread/INFO]: [Server] no he hecho nada
+[10:50:38] [Server thread/INFO]: Unknown item 'minecraft:powder_bone'
+[10:50:38] [Server thread/INFO]: ...rganisEHS powder_bone 5<--[HERE]
+[10:51:34] [pool-11-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert]] from pos class_2338{x=1931, y=67, z=-501}
+[10:51:52] [Server thread/INFO]: Gave 5 [Bone Meal] to ArganisEHS
+[10:54:02] [Server thread/INFO]: ArganisEHS was slain by Zombie
+[10:55:04] [Server thread/INFO]: Set the time to 1000
