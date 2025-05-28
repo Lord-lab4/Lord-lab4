@@ -335,3 +335,6 @@
 [10:51:52] [Server thread/INFO]: Gave 5 [Bone Meal] to ArganisEHS
 [10:54:02] [Server thread/INFO]: ArganisEHS was slain by Zombie
 [10:55:04] [Server thread/INFO]: Set the time to 1000
+[10:55:56] [pool-11-thread-2/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains]] from pos class_2338{x=1931, y=67, z=-501}
+[10:56:20] [Server thread/INFO]: [Server] del hueso puedes hacer polvo de hueso para hacer crecer los brotes
+[10:56:39] [Server thread/INFO]: [Server] seguro que en la noche se han muerto esqueletos puedes buscar los puntos rojos para el hueso
