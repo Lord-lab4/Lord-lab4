@@ -4393,9 +4393,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/voluntary_exile": {
+  "minecraft:recipes/decorations/birch_hanging_sign": {
     "criteria": {
-      "voluntary_exile": "2025-05-30 09:22:00 +0000"
+      "has_stripped_logs": "2025-05-30 09:10:39 +0000"
     },
     "done": true
   },
@@ -4405,9 +4405,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/birch_hanging_sign": {
+  "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
-      "has_stripped_logs": "2025-05-30 09:10:39 +0000"
+      "has_logs": "2025-05-30 09:14:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-05-30 09:22:00 +0000"
     },
     "done": true
   },
@@ -4420,12 +4426,6 @@
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2025-05-30 09:27:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_logs": "2025-05-30 09:14:20 +0000"
     },
     "done": true
   },

@@ -418,3 +418,8 @@
 [09:45:15] [Server thread/INFO]: Loaded 27 flute songs
 [09:45:15] [Server thread/INFO]: Applied 7 data villager trades
 [09:45:15] [Server thread/ERROR]: Failed to restore original behavior for item: lunch_basket, net.mehvahdjukaar.moonlight.api.util.DispenserHelper$PlaceBlockDispenseBehavior@47aa127d
+[09:53:33] [Server thread/INFO]: LordSasha96 lost connection: Disconnected
+[09:53:33] [Server thread/INFO]: LordSasha96 left the game
+[09:53:35] [Server thread/INFO]: LordSasha96[/127.40.217.3:42839] logged in with entity id 23562 at (1819.1607005923822, 64.0, -155.30000001192093)
+[09:53:35] [Server thread/INFO]: LordSasha96 joined the game
+[09:53:35] [Server thread/INFO]: Async chunk loading for player LordSasha96 completed
