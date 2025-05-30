@@ -326,3 +326,54 @@
 [08:54:49] [Server thread/INFO]: <LordSasha96> hay un datapack para talar todo el arbol de un hachazo
 [08:54:56] [Server thread/INFO]: <LordSasha96> lo pongo?
 [08:55:21] [Server thread/INFO]: <ArganisEHS> ok
+[09:00:24] [Server thread/WARN]: Missing metadata in pack file/datapacks.zip
+[09:00:24] [Server thread/WARN]: Missing metadata in pack file/datapacks.zip
+[09:00:30] [Server thread/INFO]: [LordSasha96: Enabling data pack [file/TreeCapitator.v4.1.4.zip (world)]]
+[09:00:30] [Server thread/INFO]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 1 ms
+[09:00:30] [Server thread/INFO]: Generated runtime SERVER_DATA for pack Suppsquared Generated Pack (suppsquared) in: 2 ms
+[09:00:30] [Worker-ResourceReload-1/ERROR]: Couldn't load tag supplementaries:lunch_basket_blacklist as it is missing following references: potionbundles:potion_bundle (from fabric)
+[09:00:31] [Server thread/INFO]: Loaded 7 recipes
+[09:00:31] [Server thread/ERROR]: Parsing error loading custom advancement naturescompass:natures_compass: Expected items to be a JsonArray, was "min...ss"
+[09:00:31] [Server thread/ERROR]: Parsing error loading custom advancement explorerscompass:explorers_compass_cobweb: Expected items to be a JsonArray, was "min...eb"
+[09:00:31] [Server thread/ERROR]: Parsing error loading custom advancement explorerscompass:explorers_compass: Expected items to be a JsonArray, was "min...ss"
+[09:00:31] [Server thread/ERROR]: Parsing error loading custom advancement supplementaries:recipes/planter_rich: Unknown item id 'farmersdelight:rich_soil'
+[09:00:31] [Server thread/ERROR]: Parsing error loading custom advancement explorerscompass:explorers_compass_cracked_stone_bricks: Expected items to be a JsonArray, was "min...ks"
+[09:00:31] [Server thread/INFO]: Loaded 1656 advancements
+[09:00:31] [Server thread/INFO]: Loaded 27 flute songs
+[09:00:31] [Server thread/INFO]: Applied 7 data villager trades
+[09:00:31] [Server thread/ERROR]: Failed to restore original behavior for item: lunch_basket, net.mehvahdjukaar.moonlight.api.util.DispenserHelper$PlaceBlockDispenseBehavior@47aa127d
+[09:01:32] [Server thread/WARN]: Missing metadata in pack file/datapacks.zip
+[09:01:32] [Server thread/INFO]: [LordSasha96: Reloading!]
+[09:01:32] [Server thread/INFO]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 1 ms
+[09:01:32] [Server thread/INFO]: Generated runtime SERVER_DATA for pack Suppsquared Generated Pack (suppsquared) in: 2 ms
+[09:01:32] [Worker-ResourceReload-2/ERROR]: Couldn't load tag supplementaries:lunch_basket_blacklist as it is missing following references: potionbundles:potion_bundle (from fabric)
+[09:01:32] [Server thread/INFO]: Loaded 7 recipes
+[09:01:32] [Server thread/ERROR]: Parsing error loading custom advancement naturescompass:natures_compass: Expected items to be a JsonArray, was "min...ss"
+[09:01:32] [Server thread/ERROR]: Parsing error loading custom advancement explorerscompass:explorers_compass_cobweb: Expected items to be a JsonArray, was "min...eb"
+[09:01:32] [Server thread/ERROR]: Parsing error loading custom advancement explorerscompass:explorers_compass: Expected items to be a JsonArray, was "min...ss"
+[09:01:32] [Server thread/ERROR]: Parsing error loading custom advancement supplementaries:recipes/planter_rich: Unknown item id 'farmersdelight:rich_soil'
+[09:01:32] [Server thread/ERROR]: Parsing error loading custom advancement explorerscompass:explorers_compass_cracked_stone_bricks: Expected items to be a JsonArray, was "min...ks"
+[09:01:32] [Server thread/INFO]: Loaded 1656 advancements
+[09:01:32] [Server thread/INFO]: Loaded 27 flute songs
+[09:01:32] [Server thread/INFO]: Applied 7 data villager trades
+[09:02:46] [Server thread/WARN]: Missing metadata in pack file/datapacks.zip
+[09:02:46] [Server thread/WARN]: Missing metadata in pack file/datapacks.zip
+[09:03:19] [Server thread/WARN]: Missing metadata in pack file/datapacks.zip
+[09:03:19] [Server thread/INFO]: Reloading!
+[09:03:19] [Server thread/INFO]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 1 ms
+[09:03:19] [Server thread/INFO]: Generated runtime SERVER_DATA for pack Suppsquared Generated Pack (suppsquared) in: 3 ms
+[09:03:20] [Worker-ResourceReload-3/ERROR]: Couldn't load tag supplementaries:lunch_basket_blacklist as it is missing following references: potionbundles:potion_bundle (from fabric)
+[09:03:20] [Server thread/INFO]: Loaded 7 recipes
+[09:03:20] [Server thread/ERROR]: Parsing error loading custom advancement naturescompass:natures_compass: Expected items to be a JsonArray, was "min...ss"
+[09:03:20] [Server thread/ERROR]: Parsing error loading custom advancement explorerscompass:explorers_compass_cobweb: Expected items to be a JsonArray, was "min...eb"
+[09:03:20] [Server thread/ERROR]: Parsing error loading custom advancement explorerscompass:explorers_compass: Expected items to be a JsonArray, was "min...ss"
+[09:03:20] [Server thread/ERROR]: Parsing error loading custom advancement supplementaries:recipes/planter_rich: Unknown item id 'farmersdelight:rich_soil'
+[09:03:20] [Server thread/ERROR]: Parsing error loading custom advancement explorerscompass:explorers_compass_cracked_stone_bricks: Expected items to be a JsonArray, was "min...ks"
+[09:03:20] [Server thread/INFO]: Loaded 1656 advancements
+[09:03:20] [Server thread/INFO]: Loaded 27 flute songs
+[09:03:20] [Server thread/INFO]: Applied 7 data villager trades
+[09:03:20] [Server thread/ERROR]: Failed to restore original behavior for item: lunch_basket, net.mehvahdjukaar.moonlight.api.util.DispenserHelper$PlaceBlockDispenseBehavior@47aa127d
+[09:03:33] [Server thread/WARN]: Missing metadata in pack file/datapacks.zip
+[09:03:33] [Server thread/INFO]: There are 6 data pack(s) enabled: [vanilla (built-in)], [fabric (Fabric mod)], [Supplementaries Generated Pack (built-in)], [file/VanillaTweaks_c660077_MC1.20-1.20.6.zip (world)], [file/TreeCapitator.v4.1.4.zip (world)], [Suppsquared Generated Pack (built-in)]
+[09:03:33] [Server thread/WARN]: Missing metadata in pack file/datapacks.zip
+[09:03:33] [Server thread/INFO]: There are no more data packs available
