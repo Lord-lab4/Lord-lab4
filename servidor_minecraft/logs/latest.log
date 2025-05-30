@@ -403,3 +403,18 @@
 [09:22:59] [Server thread/INFO]: LordSasha96 joined the game
 [09:22:59] [Server thread/INFO]: Async chunk loading for player LordSasha96 completed
 [09:24:49] [Server thread/INFO]: <LordSasha96> xaero-waypoint:Casa Victor Litematica:C:1816:65:-153:6:false:0:Internal-overworld-waypoints
+[09:45:14] [Server thread/WARN]: Missing metadata in pack file/datapacks.zip
+[09:45:14] [Server thread/INFO]: [LordSasha96: Reloading!]
+[09:45:14] [Server thread/INFO]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 1 ms
+[09:45:14] [Server thread/INFO]: Generated runtime SERVER_DATA for pack Suppsquared Generated Pack (suppsquared) in: 1 ms
+[09:45:14] [Worker-ResourceReload-5/ERROR]: Couldn't load tag supplementaries:lunch_basket_blacklist as it is missing following references: potionbundles:potion_bundle (from fabric)
+[09:45:15] [Server thread/INFO]: Loaded 7 recipes
+[09:45:15] [Server thread/ERROR]: Parsing error loading custom advancement naturescompass:natures_compass: Expected items to be a JsonArray, was "min...ss"
+[09:45:15] [Server thread/ERROR]: Parsing error loading custom advancement explorerscompass:explorers_compass_cobweb: Expected items to be a JsonArray, was "min...eb"
+[09:45:15] [Server thread/ERROR]: Parsing error loading custom advancement explorerscompass:explorers_compass: Expected items to be a JsonArray, was "min...ss"
+[09:45:15] [Server thread/ERROR]: Parsing error loading custom advancement supplementaries:recipes/planter_rich: Unknown item id 'farmersdelight:rich_soil'
+[09:45:15] [Server thread/ERROR]: Parsing error loading custom advancement explorerscompass:explorers_compass_cracked_stone_bricks: Expected items to be a JsonArray, was "min...ks"
+[09:45:15] [Server thread/INFO]: Loaded 1656 advancements
+[09:45:15] [Server thread/INFO]: Loaded 27 flute songs
+[09:45:15] [Server thread/INFO]: Applied 7 data villager trades
+[09:45:15] [Server thread/ERROR]: Failed to restore original behavior for item: lunch_basket, net.mehvahdjukaar.moonlight.api.util.DispenserHelper$PlaceBlockDispenseBehavior@47aa127d
